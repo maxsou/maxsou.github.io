@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日本 on Sou&#39;s Laboratory</title>
+    <link>http://maxsou.github.io/tags/%E6%97%A5%E6%9C%AC/</link>
+    <description>Recent content in 日本 on Sou&#39;s Laboratory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>Copyright (c) 2016, maxsou;Thanks for spf13 .</copyright>
+    <lastBuildDate>Sat, 12 Mar 2016 18:06:00 -0500</lastBuildDate>
+    <atom:link href="http://maxsou.github.io/tags/%E6%97%A5%E6%9C%AC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>旅行(Presentation)</title>
+      <link>http://maxsou.github.io/presentation/ryoko/</link>
+      <pubDate>Sat, 12 Mar 2016 18:06:00 -0500</pubDate>
+      
+      <guid>http://maxsou.github.io/presentation/ryoko/</guid>
+      <description>&lt;p&gt;在这里介绍一下小狛探险队去过的地方。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;阿哈哈哈&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;1.在山口&lt;/p&gt;
+
+&lt;p&gt;2.在福冈&lt;/p&gt;
+
+&lt;p&gt;3.在关西&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
