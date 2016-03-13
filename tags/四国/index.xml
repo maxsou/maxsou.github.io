@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sou&#39;s Laboratory</title>
-    <link>http://maxsou.github.io/</link>
-    <description>Recent content on Sou&#39;s Laboratory</description>
+    <title>四国 on Sou&#39;s Laboratory</title>
+    <link>http://maxsou.github.io/tags/%E5%9B%9B%E5%9B%BD/</link>
+    <description>Recent content in 四国 on Sou&#39;s Laboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Copyright (c) 2016, maxsou;Thanks for spf13 .</copyright>
     <lastBuildDate>Sat, 12 Mar 2016 18:06:00 -0500</lastBuildDate>
-    <atom:link href="http://maxsou.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://maxsou.github.io/tags/%E5%9B%9B%E5%9B%BD/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>【四国高松】村上春树《海边的卡夫卡》背景（舞台）地</title>
@@ -41,87 +41,6 @@
 &lt;p&gt;（訳）甲村纪念图书馆当然存在。那是不可能的。其实不存在。是我信手捏来的。对不住了，我太喜欢信手捏来了。我创作出来一个场景后会给它逐渐添枝加叶变得丰满。比如说，文中佐伯（SAIKISANN）的值班室的桌子是什么样的形状，那里摆放着什么，我能光描写那些就写好几页。所以那样的场景在你们看来就比现实中存在的场景还现实了。写小说的欢乐就在于此。&lt;/p&gt;
 
 &lt;p&gt;所以说，甲村纪念图书馆只存在在我的脑袋里，在现实中是不存在的。大家脑袋里的甲村纪念图书馆又是什么样的呢。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ruby(project)</title>
-      <link>http://maxsou.github.io/project/ruby/</link>
-      <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://maxsou.github.io/project/ruby/</guid>
-      <description>
-
-&lt;h3 id=&#34;标题:095f419b3a7e1046153c9c9fe77ccfb5&#34;&gt;标题&lt;/h3&gt;
-
-&lt;p&gt;正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文
-正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文&lt;/p&gt;
-
-&lt;p&gt;正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文
-正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;引用文献&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>关于maxsou</title>
-      <link>http://maxsou.github.io/post/aboutme</link>
-      <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://maxsou.github.io/post/aboutme</guid>
-      <description>&lt;p&gt;&lt;t1&gt;历史&lt;/t1&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;li&gt;出生于中国东北。
-&lt;li&gt;大学就读于中国南方。
-&lt;li&gt;毕业后留学日本，然后就职于某传统日企。&lt;/p&gt;
-
-&lt;p&gt;&lt;t1&gt;如今&lt;/t1&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;li&gt;工作内容是系统开发（2005年的Java项目的保守性质的开发）。
-&lt;li&gt;喜欢编程，在学Ruby。
-&lt;li&gt;喜欢动漫和旅游。游遍了日本四个岛屿－－北海道，本州，四国，九州。
-因为出生于北方怕冷的缘故，对四国和九州情有独钟。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开始用Hugo和Github写博客(POST)</title>
-      <link>http://maxsou.github.io/post/start-to-github-blog</link>
-      <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://maxsou.github.io/post/start-to-github-blog</guid>
-      <description>
-
-&lt;h1 id=&#34;配置步骤:0f9af84557d1846a48894536682b1346&#34;&gt;配置步骤&lt;/h1&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Install Homebrew&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;brew install go&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;brew install hugo&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;建自己的博客文件夹&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;注册Github&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;建“（你的用户名）.github.io”的项目&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;安装Github Desktop应用&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;用Github Desktop来同步自己建好的本地博客文件夹到Github上。&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&#34;参考:0f9af84557d1846a48894536682b1346&#34;&gt;参考&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://blog.coderzh.com/2015/08/29/hugo/&#34;&gt;http://blog.coderzh.com/2015/08/29/hugo/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://blog.bpcoder.com/2015/12/hugo-create-blog/&#34;&gt;http://blog.bpcoder.com/2015/12/hugo-create-blog/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
