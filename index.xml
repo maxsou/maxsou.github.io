@@ -53,24 +53,23 @@
     </item>
     
     <item>
-      <title>关于我(POST)</title>
+      <title>关于maxsou</title>
       <link>http://maxsou.github.io/post/aboutme</link>
       <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>http://maxsou.github.io/post/aboutme</guid>
-      <description>
+      <description>&lt;p&gt;&lt;t1&gt;历史&lt;/t1&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;标题:e6001a249cf5befaf09e28d15df6b465&#34;&gt;标题&lt;/h3&gt;
+&lt;p&gt;&lt;li&gt;出生于中国东北。
+&lt;li&gt;大学就读于中国南方。
+&lt;li&gt;毕业后留学日本，然后就职于某传统日企。&lt;/p&gt;
 
-&lt;p&gt;正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文
-正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文&lt;/p&gt;
+&lt;p&gt;&lt;t1&gt;如今&lt;/t1&gt;&lt;/p&gt;
 
-&lt;p&gt;正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文
-正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;引用文献&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;li&gt;工作内容是系统开发（2005年的Java项目的保守性质的开发）。
+&lt;li&gt;喜欢编程，在学Ruby。
+&lt;li&gt;喜欢动漫和旅游。游遍了日本四个岛屿－－北海道，本州，四国，九州。
+因为出生于北方怕冷的缘故，对四国和九州情有独钟。&lt;/p&gt;
 </description>
     </item>
     
@@ -82,14 +81,32 @@
       <guid>http://maxsou.github.io/post/start-to-github-blog</guid>
       <description>
 
-&lt;h3 id=&#34;大标题:0f9af84557d1846a48894536682b1346&#34;&gt;大标题&lt;/h3&gt;
+&lt;h1 id=&#34;配置步骤:0f9af84557d1846a48894536682b1346&#34;&gt;配置步骤&lt;/h1&gt;
 
-&lt;p&gt;正文&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Install Homebrew&lt;/p&gt;&lt;/li&gt;
 
-&lt;h2 id=&#34;引用:0f9af84557d1846a48894536682b1346&#34;&gt;引用&lt;/h2&gt;
+&lt;li&gt;&lt;p&gt;brew install go&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;brew install hugo&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;建自己的博客文件夹&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;注册Github&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;建“（你的用户名）.github.io”的项目&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;安装Github Desktop应用&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;用Github Desktop来同步自己建好的本地博客文件夹到Github上。&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&#34;参考:0f9af84557d1846a48894536682b1346&#34;&gt;参考&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;引用文献&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://blog.coderzh.com/2015/08/29/hugo/&#34;&gt;http://blog.coderzh.com/2015/08/29/hugo/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://blog.bpcoder.com/2015/12/hugo-create-blog/&#34;&gt;http://blog.bpcoder.com/2015/12/hugo-create-blog/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
