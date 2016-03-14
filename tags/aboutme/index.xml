@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aboutme on Sou&#39;s Laboratory</title>
-    <link>http://maxsou.github.io/topics/aboutme/</link>
+    <link>http://maxsou.github.io/tags/aboutme/</link>
     <description>Recent content in Aboutme on Sou&#39;s Laboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Copyright (c) 2016, maxsou;Thanks for spf13 .</copyright>
     <lastBuildDate>Wed, 09 Mar 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://maxsou.github.io/topics/aboutme/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://maxsou.github.io/tags/aboutme/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>自我介绍｜关于maxsou</title>
