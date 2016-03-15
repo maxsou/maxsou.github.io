@@ -12,21 +12,32 @@
     
     <item>
       <title>多年经验｜如何用Hugo＋Github写博客</title>
-      <link>http://maxsou.github.io/post/start-to-github-blog</link>
+      <link>http://maxsou.github.io/project/start-to-github-blog</link>
       <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://maxsou.github.io/post/start-to-github-blog</guid>
+      <guid>http://maxsou.github.io/project/start-to-github-blog</guid>
       <description>
 
 &lt;h1 id=&#34;配置步骤:0f9af84557d1846a48894536682b1346&#34;&gt;配置步骤&lt;/h1&gt;
 
+&lt;p&gt;1.安装brew&lt;/p&gt;
+
+&lt;p&gt;&lt;pre&gt;&lt;code  class=&#34;nohighlight&#34;&gt;
+$ Install Homebrew
+&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;2.用brew安装go语言&lt;/p&gt;
+
+&lt;p&gt;&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
+$ brew install go
+&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;3.用brew安装hugo&lt;/p&gt;
+
+&lt;p&gt;&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
+$ brew install hugo&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
+
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Install Homebrew&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;brew install go&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;brew install hugo&lt;/p&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;建自己的博客文件夹&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;注册Github&lt;/p&gt;&lt;/li&gt;
@@ -44,6 +55,12 @@
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://blog.coderzh.com/2015/08/29/hugo/&#34;&gt;http://blog.coderzh.com/2015/08/29/hugo/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://blog.bpcoder.com/2015/12/hugo-create-blog/&#34;&gt;http://blog.bpcoder.com/2015/12/hugo-create-blog/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://tonybai.com/2015/09/23/intro-of-gohugo/&#34;&gt;http://tonybai.com/2015/09/23/intro-of-gohugo/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://nanshu.wang/post/2015-01-31/&#34;&gt;http://nanshu.wang/post/2015-01-31/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.jianshu.com/p/b66754c0baa6&#34;&gt;http://www.jianshu.com/p/b66754c0baa6&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
