@@ -1,91 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sou-lab</title>
-    <link>http://maxsou.github.io/</link>
-    <description>Recent content on sou-lab</description>
+    <title>Tours on sou-lab</title>
+    <link>http://maxsou.github.io/tour/</link>
+    <description>Recent content in Tours on sou-lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Copyright (c) 2016, maxsou.</copyright>
-    <lastBuildDate>Wed, 09 Mar 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://maxsou.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>多年经验｜如何用Hugo＋Github写博客</title>
-      <link>http://maxsou.github.io/project/start-to-github-blog</link>
-      <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://maxsou.github.io/project/start-to-github-blog</guid>
-      <description>
-
-&lt;h1 id=&#34;准备工作:0f9af84557d1846a48894536682b1346&#34;&gt;准备工作&lt;/h1&gt;
-
-&lt;p&gt;1.安装brew
-&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
-$ Install Homebrew
-&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;2.用brew安装go语言
-&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
-$ brew install go
-&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;3.用brew安装hugo
-&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
-$ brew install hugo&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;建自己的博客:0f9af84557d1846a48894536682b1346&#34;&gt;建自己的博客&lt;/h1&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;建自己的博客文件夹&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;注册Github&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;建“（你的用户名）.github.io”的项目&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;安装Github Desktop应用&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;用Github Desktop来同步自己建好的本地博客文件夹到Github上。&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&#34;参考:0f9af84557d1846a48894536682b1346&#34;&gt;参考&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://blog.coderzh.com/2015/08/29/hugo/&#34;&gt;http://blog.coderzh.com/2015/08/29/hugo/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://blog.bpcoder.com/2015/12/hugo-create-blog/&#34;&gt;http://blog.bpcoder.com/2015/12/hugo-create-blog/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://tonybai.com/2015/09/23/intro-of-gohugo/&#34;&gt;http://tonybai.com/2015/09/23/intro-of-gohugo/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://nanshu.wang/post/2015-01-31/&#34;&gt;http://nanshu.wang/post/2015-01-31/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.jianshu.com/p/b66754c0baa6&#34;&gt;http://www.jianshu.com/p/b66754c0baa6&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>自我介绍｜关于maxsou</title>
-      <link>http://maxsou.github.io/post/aboutme</link>
-      <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://maxsou.github.io/post/aboutme</guid>
-      <description>
-
-&lt;h1 id=&#34;历史:e6001a249cf5befaf09e28d15df6b465&#34;&gt;历史&lt;/h1&gt;
-
-&lt;p&gt;&lt;li&gt;出生于中国东北。
-&lt;li&gt;大学就读于中国南方。
-&lt;li&gt;毕业后留学日本，然后就职于某传统日企。&lt;/p&gt;
-
-&lt;h1 id=&#34;如今:e6001a249cf5befaf09e28d15df6b465&#34;&gt;如今&lt;/h1&gt;
-
-&lt;p&gt;&lt;li&gt;工作内容是系统开发（2005年的Java项目的保守性质的开发）。
-&lt;li&gt;喜欢编程，在学Ruby。
-&lt;li&gt;喜欢动漫和旅游。游遍了日本四个岛屿－－北海道，本州，四国，九州。
-因为出生于北方怕冷的缘故，对四国和九州情有独钟。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Thu, 27 Aug 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://maxsou.github.io/tour/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>旅行路线｜九州旅游的“金三角”：福冈-熊本-大分</title>
