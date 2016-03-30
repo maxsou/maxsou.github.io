@@ -7,8 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Copyright (c) 2016, maxsou.</copyright>
-    <lastBuildDate>Wed, 09 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Mar 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://maxsou.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>东京樱花｜一个悠闲的周末</title>
+      <link>http://maxsou.github.io/tour/sakura/</link>
+      <pubDate>Mon, 28 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/tour/sakura/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://maxsou.github.io/media/_DSC6833.JPG&#34; alt=&#34;example&#34;  attr width=&#34;75%&#34;  &gt;
+&lt;img src=&#34;http://maxsou.github.io/media/_DSC6837.JPG&#34; alt=&#34;example2&#34; attr width=&#34;75%&#34;  &gt;
+&lt;img src=&#34;http://maxsou.github.io/media/_DSC6853.JPG&#34; alt=&#34;example3&#34; attr width=&#34;75%&#34;  &gt;
+&lt;img src=&#34;http://maxsou.github.io/media/_DSC6868.JPG&#34; alt=&#34;example4&#34; attr width=&#34;75%&#34;  &gt;
+&lt;img src=&#34;http://maxsou.github.io/media/DSC04857.JPG&#34; alt=&#34;example5&#34; attr width=&#34;75%&#34;  &gt;
+&lt;img src=&#34;http://maxsou.github.io/media/DSC04872.JPG&#34; alt=&#34;example6&#34; attr width=&#34;75%&#34;  &gt;
+&lt;img src=&#34;http://maxsou.github.io/media/DSC04877.JPG&#34; alt=&#34;example7&#34; attr width=&#34;75%&#34;  &gt;
+&lt;img src=&#34;http://maxsou.github.io/media/DSC04888.JPG&#34; alt=&#34;example8&#34; attr width=&#34;75%&#34;  &gt;
+&lt;img src=&#34;http://maxsou.github.io/media/DSC04910.JPG&#34; alt=&#34;example9&#34; attr width=&#34;75%&#34;  &gt;
+&lt;img src=&#34;http://maxsou.github.io/media/DSC04934.JPG&#34; alt=&#34;example10&#34; attr width=&#34;75%&#34;  &gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>多年经验｜如何用Hugo＋Github写博客</title>
