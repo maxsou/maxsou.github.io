@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on </title>
+    <title>Blog on SOU研究室</title>
     <link>http://maxsou.github.io/tags/blog/</link>
-    <description>Recent content in Blog on </description>
+    <description>Recent content in Blog on SOU研究室</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <copyright>Copyright (c) 2016, maxsou.</copyright>
+    <language>zh-CN</language>
     <lastBuildDate>Wed, 09 Mar 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://maxsou.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -60,6 +59,14 @@ $ brew install hugo&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://nanshu.wang/post/2015-01-31/&#34;&gt;http://nanshu.wang/post/2015-01-31/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.jianshu.com/p/b66754c0baa6&#34;&gt;http://www.jianshu.com/p/b66754c0baa6&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;更换主题:0f9af84557d1846a48894536682b1346&#34;&gt;更换主题&lt;/h1&gt;
+
+&lt;p&gt;看到喜欢的主题（theme或者layout）可以下载到自己的博客文件夹里，然后在config.toml里配置一下 “theme＝“xxxx””即可。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.coderzh.com/2016/03/27/hugo-pacman-theme/&#34;&gt;http://blog.coderzh.com/2016/03/27/hugo-pacman-theme/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
