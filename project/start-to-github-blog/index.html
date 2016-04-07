@@ -124,7 +124,7 @@ $ brew install hugo</pre></code></p>
 
 <h1 id="更换主题:0f9af84557d1846a48894536682b1346">更换主题</h1>
 
-<p>看到喜欢的主题（theme或者layout）可以下载到自己的博客文件夹里，然后在config.toml里配置一下 “theme＝“xxxx””即可。</p>
+<p>看到喜欢的主题（theme）可以下载到自己的博客文件夹里，然后在config.toml里配置一下 “theme＝“xxxx””即可。</p>
 
 <ul>
 <li><a href="http://blog.coderzh.com/2016/03/27/hugo-pacman-theme/">http://blog.coderzh.com/2016/03/27/hugo-pacman-theme/</a></li>
@@ -387,6 +387,38 @@ $(document).ready(function(){
 
 <script type="text/javascript">
 $(document).ready(function(){
+  var ai = $('.article-content>iframe'),
+      ae = $('.article-content>embed'),
+      t  = $('#toc'),
+      h  = $('article h2')
+      ah = $('article h2'),
+      ta = $('#toc.toc-aside'),
+      o  = $('.openaside'),
+      c  = $('.closeaside');
+  if(ai.length>0){
+    ai.wrap('<div class="video-container" />');
+  };
+  if(ae.length>0){
+   ae.wrap('<div class="video-container" />');
+  };
+  if(ah.length==0){
+    t.css('display','none');
+  }else{
+    c.click(function(){
+      ta.css('display', 'block').addClass('fadeIn');
+    });
+    o.click(function(){
+      ta.css('display', 'none');
+    });
+    $(window).scroll(function(){
+      ta.css("top",Math.max(140,320-$(this).scrollTop()));
+    });
+  };
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){
   var $this = $('.share'),
       url = $this.attr('data-url'),
       encodedUrl = encodeURIComponent(url),
@@ -413,6 +445,27 @@ $(document).ready(function(){
 });
 </script>
 
+
+<link rel="stylesheet" href="http://maxsou.github.io/fancybox/jquery.fancybox.css" media="screen" type="text/css">
+<script src="http://maxsou.github.io/fancybox/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+  $('.article-content').each(function(i){
+    $(this).find('img').each(function(){
+      if ($(this).parent().hasClass('fancybox')) return;
+      var alt = this.alt;
+      if (alt) $(this).after('<span class="caption">' + alt + '</span>');
+      $(this).wrap('<a href="' + this.src + '" title="' + alt + '" class="fancybox"></a>');
+    });
+    $(this).find('.fancybox').each(function(){
+      $(this).attr('rel', 'article' + i);
+    });
+  });
+  if($.fancybox){
+    $('.fancybox').fancybox();
+  }
+});
+</script>
 
 
 <script>

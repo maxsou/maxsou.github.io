@@ -6,8 +6,89 @@
     <description>Recent content in Posts on SOU研究室</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 09 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Mar 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://maxsou.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>东京樱花｜一个悠闲的周末</title>
+      <link>http://maxsou.github.io/post/sakura/</link>
+      <pubDate>Mon, 28 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/sakura/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://maxsou.github.io/media/DSC6833.JPG&#34; alt=&#34;example&#34;  attr width=&#34;75%&#34;  &gt;
+&lt;img src=&#34;http://maxsou.github.io/media/DSC6837.JPG&#34; alt=&#34;example2&#34; attr width=&#34;75%&#34;  &gt;
+&lt;img src=&#34;http://maxsou.github.io/media/DSC6853.JPG&#34; alt=&#34;example3&#34; attr width=&#34;75%&#34;  &gt;
+&lt;img src=&#34;http://maxsou.github.io/media/DSC6868.JPG&#34; alt=&#34;example4&#34; attr width=&#34;75%&#34;  &gt;
+&lt;img src=&#34;http://maxsou.github.io/media/DSC04857.JPG&#34; alt=&#34;example5&#34; attr width=&#34;75%&#34;  &gt;
+&lt;img src=&#34;http://maxsou.github.io/media/DSC04872.JPG&#34; alt=&#34;example6&#34; attr width=&#34;75%&#34;  &gt;
+&lt;img src=&#34;http://maxsou.github.io/media/DSC04877.JPG&#34; alt=&#34;example7&#34; attr width=&#34;75%&#34;  &gt;
+&lt;img src=&#34;http://maxsou.github.io/media/DSC04888.JPG&#34; alt=&#34;example8&#34; attr width=&#34;75%&#34;  &gt;
+&lt;img src=&#34;http://maxsou.github.io/media/DSC04910.JPG&#34; alt=&#34;example9&#34; attr width=&#34;75%&#34;  &gt;
+&lt;img src=&#34;http://maxsou.github.io/media/DSC04934.JPG&#34; alt=&#34;example10&#34; attr width=&#34;75%&#34; &gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>多年经验｜如何用Hugo＋Github写博客</title>
+      <link>http://maxsou.github.io/project/start-to-github-blog</link>
+      <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/project/start-to-github-blog</guid>
+      <description>
+
+&lt;h1 id=&#34;准备工作:0f9af84557d1846a48894536682b1346&#34;&gt;准备工作&lt;/h1&gt;
+
+&lt;p&gt;1.安装brew
+&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
+$ Install Homebrew
+&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;2.用brew安装go语言
+&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
+$ brew install go
+&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;3.用brew安装hugo
+&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
+$ brew install hugo&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;建自己的博客:0f9af84557d1846a48894536682b1346&#34;&gt;建自己的博客&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;建自己的博客文件夹&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;注册Github&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;建“（你的用户名）.github.io”的项目&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;安装Github Desktop应用&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;用Github Desktop来同步自己建好的本地博客文件夹到Github上。&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&#34;参考:0f9af84557d1846a48894536682b1346&#34;&gt;参考&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://blog.coderzh.com/2015/08/29/hugo/&#34;&gt;http://blog.coderzh.com/2015/08/29/hugo/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://blog.bpcoder.com/2015/12/hugo-create-blog/&#34;&gt;http://blog.bpcoder.com/2015/12/hugo-create-blog/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://tonybai.com/2015/09/23/intro-of-gohugo/&#34;&gt;http://tonybai.com/2015/09/23/intro-of-gohugo/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://nanshu.wang/post/2015-01-31/&#34;&gt;http://nanshu.wang/post/2015-01-31/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.jianshu.com/p/b66754c0baa6&#34;&gt;http://www.jianshu.com/p/b66754c0baa6&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;更换主题:0f9af84557d1846a48894536682b1346&#34;&gt;更换主题&lt;/h1&gt;
+
+&lt;p&gt;看到喜欢的主题（theme）可以下载到自己的博客文件夹里，然后在config.toml里配置一下 “theme＝“xxxx””即可。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.coderzh.com/2016/03/27/hugo-pacman-theme/&#34;&gt;http://blog.coderzh.com/2016/03/27/hugo-pacman-theme/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>自我介绍｜关于maxsou</title>
@@ -29,6 +110,231 @@
 &lt;li&gt;喜欢编程，在学Ruby。
 &lt;li&gt;喜欢动漫和旅游。游遍了日本四个岛屿－－北海道，本州，四国，九州。
 因为出生于北方怕冷的缘故，对四国和九州情有独钟。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>旅行路线｜九州旅游的“金三角”：福冈-熊本-大分</title>
+      <link>http://maxsou.github.io/post/kyuusyu/</link>
+      <pubDate>Thu, 27 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/kyuusyu/</guid>
+      <description>&lt;p&gt;因为大学院（在北海道）的指导教授是个九州人，他为人固执，
+所以来九州之前，我对九州有了“固执刻板”的既定印象。
+如果说北海道是日本的乡下的话，那么九州也只能五十步笑百步了，
+因为九州也是一个地理位置相对较偏的地方（离人口集中的关东和关西的“东京”“横滨”“大阪”“京都”比较远）。&lt;/p&gt;
+
+&lt;p&gt;北海道因为《非诚勿扰》让国内的很多人了解到它，《蜂蜜与四叶草》和《钢之炼金术师》的作者的最近几年的连载&amp;ndash;《银匙》让很多日本人也对北海道很向往。但给九州打的广告的就不那么多了。《妖怪手表》里的小妖怪们萌遍了全世界，大家也对游戏里的地图了如指掌，但有几个玩家能看出游戏里的地图是照着福冈市的地图来画的呢。（level5公司本社位于福冈市药院站。）当然还有呆萌的熊本熊。&lt;/p&gt;
+
+&lt;p&gt;九州地处日本，东亚（韩国，中国东北）和西洋的交汇处，要说九州的特色少不了日本自古以来的神社（太宰府等），战国时代就有的城池（熊本城等），闻名日本的别府温泉，中华街（长崎）和西洋传过来的各种教堂，洋房（长崎）。貌似很不起眼的九州，其实是日本最丰富多彩的土地。&lt;/p&gt;
+
+&lt;p&gt;如果去福冈只看一个景点的话，首推“太宰府”。太宰府因为地处九州这个中西交界的地方，在古代日本是外交和国防的职能单位，同时也具备九州地区的行政和司法的权利。太宰府下设很多“司”，“所”，是个体系庞大的部门，但现在已经无从考察。
+今天，旅客去看的最多的是太宰府天满宫，那里祭着影响着日本人生活1千多年的菅原道真。（他对汉学很有研究，在那个时代，对中国文化有研究比现在英语学得好还有优势。）京都的北野天满宫也祭着菅原道真，他是日本的学问之神，相当于中国的文曲星。&lt;/p&gt;
+
+&lt;p&gt;从博多站或者福冈机场去的话，最好选择下面这个太宰府周游券。
+只要1000日元，就包括&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;博多・福岡空港国際線～太宰府区间的巴士的单程票&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;福岡（天神）駅～太宰府駅区间的【旅人】列车的单程票&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;太宰府内联络巴士的一日随便乘车的票&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;太宰府院内有日本文明的学问神所在的天满宫。&lt;/p&gt;
+
+&lt;p&gt;参拜是免费的。只有絵馬，抽签，护身符需要500日元左右。&lt;/p&gt;
+
+&lt;p&gt;↑↑↑福冈和熊本的县界↓↓↓&lt;/p&gt;
+
+&lt;p&gt;熊本的标志自然是熊本城（对于国内的大家来说可能会是味千拉面，或者是熊本熊）。&lt;/p&gt;
+
+&lt;p&gt;日本三名城有2种说法。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;熊本城，名古屋城和大阪城&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;熊本城，名古屋城和姬路城&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;由此可见熊本城的名气了。他的天守是现代重建，但保留了几百年前的样子，绝对对得起三名城的称呼。&lt;/p&gt;
+
+&lt;p&gt;壮阔雄伟的一大一小两天守是它最大的特色，这是加藤清正根据实战经验来设计的。&lt;/p&gt;
+
+&lt;p&gt;重建的本丸御殿深处的金灿灿的“昭君之间”。&lt;/p&gt;
+
+&lt;p&gt;拉门和屏风上花了王昭君主题的画。&lt;/p&gt;
+
+&lt;p&gt;【熊本城入场券价格】&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;大人（高中生以上）500円&lt;/p&gt;
+
+&lt;p&gt;小孩（初中生以下）200円&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;↑↑↑熊本和大分的县界↓↓↓&lt;/p&gt;
+
+&lt;p&gt;来了别府才知道，“温泉不只是用来泡的，还可以用来看”！&lt;/p&gt;
+
+&lt;p&gt;相信你第一次来大分别府来地狱巡礼，看地狱八景也会有同样的震惊。&lt;/p&gt;
+
+&lt;p&gt;【地狱八景包括哪八景？】&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;1 海之地獄&lt;/p&gt;
+
+&lt;p&gt;2 鬼石坊主地獄&lt;/p&gt;
+
+&lt;p&gt;3 山之地獄&lt;/p&gt;
+
+&lt;p&gt;4 饭锅(かまど)地獄&lt;/p&gt;
+
+&lt;p&gt;5 鬼山地獄&lt;/p&gt;
+
+&lt;p&gt;6 白池地獄&lt;/p&gt;
+
+&lt;p&gt;7 血池地獄&lt;/p&gt;
+
+&lt;p&gt;8 龍巻地獄&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;【套票价格（在以上任意一个地狱的售票点都能买到）】&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;大人 2,100円&lt;/p&gt;
+
+&lt;p&gt;高中生 1,350円&lt;/p&gt;
+
+&lt;p&gt;初中生 1,000円&lt;/p&gt;
+
+&lt;p&gt;小学生以下 900円&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;【地域巡礼案内所在地图上的位置】&lt;/p&gt;
+
+&lt;p&gt;【交通】&lt;/p&gt;
+
+&lt;p&gt;因为地理位置比较偏，推荐做JR到别府站，再转巴士去地狱巡礼。&lt;/p&gt;
+
+&lt;p&gt;在ＪＲ別府站西口乘以下号码的巴士&lt;/p&gt;
+
+&lt;p&gt;・前往鉄輪方向的巴士：2，5，41，43&lt;/p&gt;
+
+&lt;p&gt;坐20分钟左右，在海地獄前或者鉄輪下车，一下车便是。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>浅谈狐仙｜从苏妲己到杨贵妃，从中国到日本</title>
+      <link>http://maxsou.github.io/post/yamaguchi-yangguifei/</link>
+      <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/yamaguchi-yangguifei/</guid>
+      <description>&lt;p&gt;有感于《灵魂摆渡》之《画中仙》。
+从蒲松龄的《聊斋》到前几年日本比较火的“卖肉”动画－－《我的狐仙女友》，
+中日两国的作家和漫画家都喜欢这个神秘的古典妖怪。
+不单因为她可以变成美女诱惑人，法力强大。
+更因为通过她的折射，可以反映出现实世界的人间百态，
+以及作品中每个角色对美丑善恶的态度。&lt;/p&gt;
+
+&lt;p&gt;去年比较火的《灵魂摆渡》（一个很精致的小成本电影，当代版的“聊斋”）也讲了这样一个狐仙的故事。
+&amp;gt;女主角偶遇到了以前赴日留学的朋友，却发现他失魂落魄、狼狈不堪的样子。
+男主角偶然从留学生那里得到被他视如珍宝的一幅画。
+男主角将画拿回家中，发现画中画着一个唐代美女，不知不觉中，
+自己已进入画中，而眼前出现了一个绝世美女，口口声声叫着他“三郎”，
+男主角流连于画中的美好情景－－有美女跳舞弹奏，有美酒美食随便吃，竟不想回归了。&lt;/p&gt;
+
+&lt;p&gt;女主角发现男主角好几天没来便利店打工了，察觉到了异常，
+请男二号来帮忙，两人来到男主角家中，看到了那幅神秘的“贵妃夜妆图”，
+男二号说这幅画是用杨贵妃的骨血制作，画与杨贵妃的精魂相溶，
+男主角正在被杨贵妃的鬼魂吸收精气很危险。
+最终&amp;hellip;&amp;hellip;
+要知详情和结局，请自行百度，去看以下好看的《灵魂摆渡》吧。&lt;/p&gt;
+
+&lt;p&gt;那么接下来研究一下杨贵妃到底在日本山口县的哪个地方登陆了吧。
+首先百度一下。
+万能的百度告诉我们她是在山口的大津登陆的，那里还有她的墓地和她老公支持修建的佛塔。
+以及和山西的贵妃像1：1的石像。&lt;/p&gt;
+
+&lt;p&gt;小狛探险队亲自去山口的大津探访了杨贵妃墓地。
+距离墓地100多米就是日本海了，墓地旁边还有好多日式古宅，至今仍有人居住。
+墓地里有个唐风的小亭子，还有贵妃池（心形的小“华清池”）。
+在墓地内的男厕所的洗手台前，还贴着一个为杨贵妃喊冤的剪报－－《毫无政治野心，被政治利用没》&lt;/p&gt;
+
+&lt;p&gt;怎么样，炎炎夏日看了这样的狐仙故事是不是觉得背脊发凉了。
+杨贵妃的野史和一直传到现在的狐仙传说我们没法去肯定和否定，
+但产生它们的背景我们可以去探究，也值得我们去探究。
+正所谓“读万卷书行万里路”，趁着我们还年轻，赶快踏出第一步，
+用足迹来验证我们的所学和所想吧！&lt;/p&gt;
+
+&lt;p&gt;【地址】&lt;br&gt;
+山口県長門市油谷向津具下3539&lt;br&gt;
+　※只能开车去。不然要从“伊上”站下车徒步走2小时40分。&lt;/p&gt;
+
+&lt;p&gt;【参观方法】&lt;br&gt;
+杨贵妃墓地：100円　※自由参拜&lt;br&gt;
+二尊佛：200円　※ 佛像参拜需要预约&lt;br&gt;
+停车场：免费 30辆&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>四国高松｜村上春树《海边的卡夫卡》的舞台地</title>
+      <link>http://maxsou.github.io/post/sikoku/</link>
+      <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/sikoku/</guid>
+      <description>&lt;p&gt;如果说四国的高知，大多数人都会知道—它是坂本龙马的故乡。
+高知的飞机场也是以坂本龙马的名字命名—高知坂本龙马空港。
+鸟取沙丘柯南机场也是模仿了它的命名规则。&lt;/p&gt;
+
+&lt;p&gt;但看过村上春树的《海边的卡夫卡》的人，说道四国第一个想起的一定是高松。
+因为，那个十五岁的离家出走的少年曾经来过，
+并在高松郊外的一个私人图书馆里找到了努力活下去的动力源。
+以下是《海边的卡夫卡》的摘选。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;高松市郊有一座私立图书馆，是一位有钱的世家用自家书库改建的。
+珍本书很齐全，建筑物和庭园也值得一看。
+曾在《太阳》杂志上看到过图书馆的照片，
+阔阔绰绰古色古香的日式建筑，
+客厅一般优雅的阅览室，
+人们坐在宽大的沙发上看书。
+看那照片时，我近乎不可思议地被强烈打动了，
+心想迟早务必找机会看一下这图书馆。
+图书馆名叫“甲村纪念图书馆”。&lt;/p&gt;
+
+&lt;p&gt;我去站内旅游观光介绍所打听甲村图书馆的位置。
+坐在服务台里的一位热情的中年女性给我一张观光游览图，
+在图书馆所在位置打了×，告诉我如何乘电车，
+并说乘电车到那个站要二十分钟左右。我道谢后查阅站内的时刻表，
+车大致每二十分钟开出一班。车来之前还有点儿时间，
+遂在站内小卖店买了可以当午饭的简单盒饭。&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash;村上春树　《海边的卡夫卡》　第5章　在图书馆度过的一天&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;关于甲村纪念图书馆是不是真的存在，村上大叔给了我们如下这般，直接又有情怀的答案。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;甲村記念図書館はもちろん実在します。というのは嘘です。
+実在しません。僕が勝手にこしらえたものです。
+すみません。なにしろ勝手にこしらえるのが好きなもので。&lt;/p&gt;
+
+&lt;p&gt;僕は何かそういう場所を作ると、細部をどんどん補強していきます。たとえば佐伯さんの執務室の机がどんなかたちをして、そこにどんなものが載っているか、そういうことについて何ページだって書くことができます。目の前にありありと思い浮かべることもできます。そういう情景が現実の情景よりも強いリアリティーを持ち始めます。小説を書くことの喜びって、そういうものなんです。&lt;/p&gt;
+
+&lt;p&gt;というわけで、甲村図書館は僕の頭の中には実在しますが、実際には実在しません。みなさんの頭の中ではいかがでしょう？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;（訳）甲村纪念图书馆当然存在。那是不可能的。其实不存在。是我信手捏来的。对不住了，我太喜欢信手捏来了。我创作出来一个场景后会给它逐渐添枝加叶变得丰满。比如说，文中佐伯（SAIKISANN）的值班室的桌子是什么样的形状，那里摆放着什么，我能光描写那些就写好几页。所以那样的场景在你们看来就比现实中存在的场景还现实了。写小说的欢乐就在于此。&lt;/p&gt;
+
+&lt;p&gt;所以说，甲村纪念图书馆只存在于我的脑海里，在现实中是不存在的。那么，大家脑海里的甲村纪念图书馆又是怎样的呢？&lt;/p&gt;
 </description>
     </item>
     
