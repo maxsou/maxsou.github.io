@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plugin on SOU研究室</title>
+    <link>http://maxsou.github.io/tags/plugin/</link>
+    <description>Recent content in Plugin on SOU研究室</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 17 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://maxsou.github.io/tags/plugin/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>多年经验｜如何给网页添加在线报名功能</title>
+      <link>http://maxsou.github.io/post/code-wordpress-apply-online/</link>
+      <pubDate>Sun, 17 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/code-wordpress-apply-online/</guid>
+      <description>
+
+&lt;h1 id=&#34;wp大学的教程:4d932f4ae7e4c6cc1d13dbf5eae876ff&#34;&gt;WP大学的教程&lt;/h1&gt;
+
+&lt;p&gt;我找到了如下这个教程。
+文中介绍了apply Online 这个插件。
+你可以用wordpress写一个活动的网页，设定好报名表单的模板。
+用户在前台填并提交表单，你能在后台查看用户提交的表单信息。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.wpdaxue.com/wordpress-plugin-apply-online.html&#34;&gt;http://www.wpdaxue.com/wordpress-plugin-apply-online.html&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

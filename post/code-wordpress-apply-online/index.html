@@ -2,18 +2,18 @@
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
-  <title>Github - SOU研究室</title>
+  <title>多年经验｜如何给网页添加在线报名功能 - SOU研究室</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1">
   
-  <meta name="description" content="Github">
+  <meta name="description" content="WP大学的教程 我找到了如下这个教程。 文中介绍了apply Online 这个插件。 你可以用wordpress写一个活动的网页，设定好报名表单的模板。 用户在">
   <meta name="author" content="maxsou">
-  <meta itemprop="name" content="Github - SOU研究室">
-  <meta itemprop="description" content="Github">
+  <meta itemprop="name" content="多年经验｜如何给网页添加在线报名功能 - SOU研究室">
+  <meta itemprop="description" content="WP大学的教程 我找到了如下这个教程。 文中介绍了apply Online 这个插件。 你可以用wordpress写一个活动的网页，设定好报名表单的模板。 用户在">
   <meta itemprop="image" content="http://maxsou.github.io/img/author.jpg">
   
   
   <meta name="twitter:description" content="">
-  <link rel="alternate" href="http://maxsou.github.io/feed.xml" title="SOU研究室" type="application/rss+xml"/>
+  
   <link rel="shortcut icon" href="http://maxsou.github.io/img/favicon.ico"/>
   <link rel="apple-touch-icon" href="http://maxsou.github.io/apple-touch-icon.png" />
   <link rel="apple-touch-icon-precomposed" href="http://maxsou.github.io/apple-touch-icon.png" />
@@ -57,21 +57,88 @@
 
   </header>
   <div id="container">
-    <div id="main">
-      
-      <h2 id="2016-03">2016-03</h2>
-      
-      <section class="post" itemscope itemprop="blogPost">
-    <a href="http://maxsou.github.io/post/code-start-to-github-blog/" title="多年经验｜如何用Hugo＋Github写博客" itemprop="url">
-    <h1 itemprop="name">多年经验｜如何用Hugo＋Github写博客</h1>
-    <p itemprop="description">准备工作 1.安装brew $ Install Homebrew 2.用brew安装go语言 $ brew install go 3.用brew安装hugo $ brew install hugo 建自己的博客 建自己的博客文件夹 注册Gith</p>
-    <time datetime="2016-03-09 00:00:00 &#43;0000 UTC" itemprop="datePublished">2016年03月09日</time>
-  </a>
-</section>
+    <div id="main" class="post" itemscope itemprop="blogPost">
+	<article itemprop="articleBody">
+    <header class="article-info clearfix">
+  <h1 itemprop="name">
+      <a href="http://maxsou.github.io/post/code-wordpress-apply-online/" title="多年经验｜如何给网页添加在线报名功能" itemprop="url">多年经验｜如何给网页添加在线报名功能</a>
+  </h1>
+  <p class="article-author">By
+    
+      <a href="" title="maxsou">maxsou</a>
+    
+  </p>
+  <p class="article-time">
+    <time datetime="2016-04-17 00:00:00 &#43;0000 UTC" itemprop="datePublished">2016年04月17日</time>
+  </p>
+</header>
 
-      
-      
+	<div class="article-content">
+    
+    
+
+<h1 id="wp大学的教程:4d932f4ae7e4c6cc1d13dbf5eae876ff">WP大学的教程</h1>
+
+<p>我找到了如下这个教程。
+文中介绍了apply Online 这个插件。
+你可以用wordpress写一个活动的网页，设定好报名表单的模板。
+用户在前台填并提交表单，你能在后台查看用户提交的表单信息。</p>
+
+<blockquote>
+<p><a href="http://www.wpdaxue.com/wordpress-plugin-apply-online.html">http://www.wpdaxue.com/wordpress-plugin-apply-online.html</a></p>
+</blockquote>
+
+	</div>
+  <footer class="article-footer clearfix">
+  
+
+<div class="article-tags">
+  <span></span>
+  
+  <a href="http://maxsou.github.io/tags/wordpress">wordpress</a>
+  
+  <a href="http://maxsou.github.io/tags/plugin">plugin</a>
+  
+</div>
+
+
+
+
+
+  <div class="article-share" id="share">
+    <div data-url="http://maxsou.github.io/post/code-wordpress-apply-online/" data-title="多年经验｜如何给网页添加在线报名功能" data-tsina="" class="share clearfix">
     </div>
+  </div>
+</footer>
+
+	</article>
+  
+
+
+<section class="comment">
+<div id="disqus_thread"></div>
+</section>
+<script>
+
+
+var disqus_config = function () {
+this.page.url = "http://maxsou.github.io/post/code-wordpress-apply-online/";
+this.page.identifier = "http://maxsou.github.io/post/code-wordpress-apply-online/";
+};
+(function() { 
+var d = document, s = d.createElement('script');
+
+s.src = '//maxsou.disqus.com/embed.js';
+
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+
+</div>
+
     <div class="openaside"><a class="navbutton" href="#" title="显示侧边栏"></a></div>
 <div id="asidepart">
 <div class="closeaside"><a class="closebutton" href="#" title="隐藏侧边栏"></a></div>
@@ -310,6 +377,38 @@ $(document).ready(function(){
 
 <script type="text/javascript">
 $(document).ready(function(){
+  var ai = $('.article-content>iframe'),
+      ae = $('.article-content>embed'),
+      t  = $('#toc'),
+      h  = $('article h2')
+      ah = $('article h2'),
+      ta = $('#toc.toc-aside'),
+      o  = $('.openaside'),
+      c  = $('.closeaside');
+  if(ai.length>0){
+    ai.wrap('<div class="video-container" />');
+  };
+  if(ae.length>0){
+   ae.wrap('<div class="video-container" />');
+  };
+  if(ah.length==0){
+    t.css('display','none');
+  }else{
+    c.click(function(){
+      ta.css('display', 'block').addClass('fadeIn');
+    });
+    o.click(function(){
+      ta.css('display', 'none');
+    });
+    $(window).scroll(function(){
+      ta.css("top",Math.max(140,320-$(this).scrollTop()));
+    });
+  };
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){
   var $this = $('.share'),
       url = $this.attr('data-url'),
       encodedUrl = encodeURIComponent(url),
@@ -336,6 +435,27 @@ $(document).ready(function(){
 });
 </script>
 
+
+<link rel="stylesheet" href="http://maxsou.github.io/fancybox/jquery.fancybox.css" media="screen" type="text/css">
+<script src="http://maxsou.github.io/fancybox/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+  $('.article-content').each(function(i){
+    $(this).find('img').each(function(){
+      if ($(this).parent().hasClass('fancybox')) return;
+      var alt = this.alt;
+      if (alt) $(this).after('<span class="caption">' + alt + '</span>');
+      $(this).wrap('<a href="' + this.src + '" title="' + alt + '" class="fancybox"></a>');
+    });
+    $(this).find('.fancybox').each(function(){
+      $(this).attr('rel', 'article' + i);
+    });
+  });
+  if($.fancybox){
+    $('.fancybox').fancybox();
+  }
+});
+</script>
 
 
 <script>

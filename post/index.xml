@@ -6,8 +6,29 @@
     <description>Recent content in Posts on SOU研究室</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 12 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://maxsou.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>多年经验｜如何给网页添加在线报名功能</title>
+      <link>http://maxsou.github.io/post/code-wordpress-apply-online/</link>
+      <pubDate>Sun, 17 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/code-wordpress-apply-online/</guid>
+      <description>
+
+&lt;h1 id=&#34;wp大学的教程:4d932f4ae7e4c6cc1d13dbf5eae876ff&#34;&gt;WP大学的教程&lt;/h1&gt;
+
+&lt;p&gt;我找到了如下这个教程。
+文中介绍了apply Online 这个插件。
+你可以用wordpress写一个活动的网页，设定好报名表单的模板。
+用户在前台填并提交表单，你能在后台查看用户提交的表单信息。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.wpdaxue.com/wordpress-plugin-apply-online.html&#34;&gt;http://www.wpdaxue.com/wordpress-plugin-apply-online.html&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>东京樱花｜小金井公园，目黑川，东京都厅</title>
@@ -65,10 +86,10 @@
     
     <item>
       <title>多年经验｜如何用Hugo＋Github写博客</title>
-      <link>http://maxsou.github.io/project/start-to-github-blog</link>
+      <link>http://maxsou.github.io/post/code-start-to-github-blog/</link>
       <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://maxsou.github.io/project/start-to-github-blog</guid>
+      <guid>http://maxsou.github.io/post/code-start-to-github-blog/</guid>
       <description>
 
 &lt;h1 id=&#34;准备工作:2bca3ed9f02c1fa4ea6063027ba982c1&#34;&gt;准备工作&lt;/h1&gt;
@@ -137,13 +158,13 @@ $ brew install hugo&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;li&gt;出生于中国东北。
 &lt;li&gt;大学就读于中国南方。
-&lt;li&gt;毕业后留学日本，然后就职于某传统日企。&lt;/p&gt;
+&lt;li&gt;毕业后留学日本，就职于某“正经”日本企业。&lt;/p&gt;
 
 &lt;h1 id=&#34;如今:e6001a249cf5befaf09e28d15df6b465&#34;&gt;如今&lt;/h1&gt;
 
-&lt;p&gt;&lt;li&gt;工作内容是系统开发（2005年的Java项目的保守性质的开发）。
-&lt;li&gt;喜欢编程，在学Ruby。
-&lt;li&gt;喜欢动漫和旅游。游遍了日本四个岛屿－－北海道，本州，四国，九州。
+&lt;p&gt;&lt;li&gt;工作内容是系统开发。
+&lt;li&gt;喜欢编程，工作上用的是java，在学Ruby。
+&lt;li&gt;喜欢动漫和旅游。游遍了日本四个岛屿－－北海道，本州，四国，九州。 &lt;/br&gt;
 因为出生于北方怕冷的缘故，对四国和九州情有独钟。&lt;/p&gt;
 </description>
     </item>
@@ -154,7 +175,19 @@ $ brew install hugo&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
       <pubDate>Thu, 27 Aug 2015 00:00:00 +0000</pubDate>
       
       <guid>http://maxsou.github.io/post/tour-kyuusyu/</guid>
-      <description>&lt;p&gt;因为大学院（在北海道）的指导教授是个九州人，他为人固执，
+      <description>&lt;p&gt;&lt;font color=red&gt;
+===2016年4月17日Start&lt;/p&gt;
+
+&lt;p&gt;2016年4月14日 晚上9点半左右，熊本大地震。日本地震震源在海上的居多，比如2011年的东日本大震灾。
+这次的熊本大地震的震源在熊本县的一个小乡村，房屋倒塌了不少，死亡人数随着救援队的救援工作的持续，一直在增加。
+直至先在（4月17日）达到41人。其中南阿苏地区的东海大学避难的1000人中有1人死亡，东海大学也因为阿苏大橋被地震和持续的余震摇塌成为孤岛。
+但马上被救援队的飞机和媒体发现，有直升机前去救援。天灾面前人真的很脆弱啊。
+2014年暑假（8月）去过的熊本城也因为这次地震和持续的无数次余震天守阁瓦片全被晃下来了。&lt;/p&gt;
+
+&lt;p&gt;===End
+&lt;/font&gt;&lt;/p&gt;
+
+&lt;p&gt;因为大学院（在北海道）的指导教授是个九州人，他为人固执，
 所以来九州之前，我对九州有了“固执刻板”的既定印象。
 如果说北海道是日本的乡下的话，那么九州也只能五十步笑百步了，
 因为九州也是一个地理位置相对较偏的地方（离人口集中的关东和关西的“东京”“横滨”“大阪”“京都”比较远）。&lt;/p&gt;
