@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on SOU研究室</title>
+    <link>http://maxsou.github.io/categories/code/</link>
+    <description>Recent content in Code on SOU研究室</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 17 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://maxsou.github.io/categories/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>多年经验｜如何给网页添加在线报名功能</title>
+      <link>http://maxsou.github.io/post/code-wordpress-apply-online/</link>
+      <pubDate>Sun, 17 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/code-wordpress-apply-online/</guid>
+      <description>
+
+&lt;h1 id=&#34;wp大学的教程:4d932f4ae7e4c6cc1d13dbf5eae876ff&#34;&gt;WP大学的教程&lt;/h1&gt;
+
+&lt;p&gt;我找到了如下这个教程。
+文中介绍了apply Online 这个插件。
+你可以用wordpress写一个活动的网页，设定好报名表单的模板。
+用户在前台填并提交表单，你能在后台查看用户提交的表单信息。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.wpdaxue.com/wordpress-plugin-apply-online.html&#34;&gt;http://www.wpdaxue.com/wordpress-plugin-apply-online.html&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>多年经验｜如何用Hugo＋Github写博客</title>
+      <link>http://maxsou.github.io/post/code-start-to-github-blog/</link>
+      <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/code-start-to-github-blog/</guid>
+      <description>
+
+&lt;h1 id=&#34;准备工作:2bca3ed9f02c1fa4ea6063027ba982c1&#34;&gt;准备工作&lt;/h1&gt;
+
+&lt;p&gt;1.安装brew
+&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
+$ Install Homebrew
+&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;2.用brew安装go语言
+&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
+$ brew install go
+&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;3.用brew安装hugo
+&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
+$ brew install hugo&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;建自己的博客:2bca3ed9f02c1fa4ea6063027ba982c1&#34;&gt;建自己的博客&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;建自己的博客文件夹&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;注册Github&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;建“（你的用户名）.github.io”的项目&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;安装Github Desktop应用&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;用Github Desktop来同步自己建好的本地博客文件夹到Github上。&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&#34;参考:2bca3ed9f02c1fa4ea6063027ba982c1&#34;&gt;参考&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://blog.coderzh.com/2015/08/29/hugo/&#34;&gt;http://blog.coderzh.com/2015/08/29/hugo/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://blog.bpcoder.com/2015/12/hugo-create-blog/&#34;&gt;http://blog.bpcoder.com/2015/12/hugo-create-blog/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://tonybai.com/2015/09/23/intro-of-gohugo/&#34;&gt;http://tonybai.com/2015/09/23/intro-of-gohugo/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://nanshu.wang/post/2015-01-31/&#34;&gt;http://nanshu.wang/post/2015-01-31/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.jianshu.com/p/b66754c0baa6&#34;&gt;http://www.jianshu.com/p/b66754c0baa6&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;更换主题:2bca3ed9f02c1fa4ea6063027ba982c1&#34;&gt;更换主题&lt;/h1&gt;
+
+&lt;p&gt;看到喜欢的主题（theme）可以下载到自己的博客文件夹里，然后在config.toml里配置一下 “theme＝“xxxx””即可。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.coderzh.com/2016/03/27/hugo-pacman-theme/&#34;&gt;http://blog.coderzh.com/2016/03/27/hugo-pacman-theme/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

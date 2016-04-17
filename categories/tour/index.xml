@@ -1,34 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SOU研究室</title>
-    <link>http://maxsou.github.io/</link>
-    <description>Recent content on SOU研究室</description>
+    <title>Tour on SOU研究室</title>
+    <link>http://maxsou.github.io/categories/tour/</link>
+    <description>Recent content in Tour on SOU研究室</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 17 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://maxsou.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>多年经验｜如何给网页添加在线报名功能</title>
-      <link>http://maxsou.github.io/post/code-wordpress-apply-online/</link>
-      <pubDate>Sun, 17 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://maxsou.github.io/post/code-wordpress-apply-online/</guid>
-      <description>
-
-&lt;h1 id=&#34;wp大学的教程:4d932f4ae7e4c6cc1d13dbf5eae876ff&#34;&gt;WP大学的教程&lt;/h1&gt;
-
-&lt;p&gt;我找到了如下这个教程。
-文中介绍了apply Online 这个插件。
-你可以用wordpress写一个活动的网页，设定好报名表单的模板。
-用户在前台填并提交表单，你能在后台查看用户提交的表单信息。&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.wpdaxue.com/wordpress-plugin-apply-online.html&#34;&gt;http://www.wpdaxue.com/wordpress-plugin-apply-online.html&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
+    <lastBuildDate>Tue, 12 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://maxsou.github.io/categories/tour/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>东京樱花｜小金井公园，目黑川，东京都厅</title>
@@ -81,91 +60,6 @@
 &lt;img src=&#34;http://maxsou.github.io/media/DSC04888.JPG&#34; alt=&#34;粉色&#34; attr width=&#34;75%&#34;  &gt;
 &lt;img src=&#34;http://maxsou.github.io/media/DSC04910.JPG&#34; alt=&#34;白色&#34; attr width=&#34;75%&#34;  &gt;
 &lt;img src=&#34;http://maxsou.github.io/media/DSC04934.JPG&#34; alt=&#34;彩色&#34; attr width=&#34;75%&#34; &gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>多年经验｜如何用Hugo＋Github写博客</title>
-      <link>http://maxsou.github.io/post/code-start-to-github-blog/</link>
-      <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://maxsou.github.io/post/code-start-to-github-blog/</guid>
-      <description>
-
-&lt;h1 id=&#34;准备工作:2bca3ed9f02c1fa4ea6063027ba982c1&#34;&gt;准备工作&lt;/h1&gt;
-
-&lt;p&gt;1.安装brew
-&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
-$ Install Homebrew
-&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;2.用brew安装go语言
-&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
-$ brew install go
-&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;3.用brew安装hugo
-&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
-$ brew install hugo&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;建自己的博客:2bca3ed9f02c1fa4ea6063027ba982c1&#34;&gt;建自己的博客&lt;/h1&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;建自己的博客文件夹&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;注册Github&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;建“（你的用户名）.github.io”的项目&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;安装Github Desktop应用&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;用Github Desktop来同步自己建好的本地博客文件夹到Github上。&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&#34;参考:2bca3ed9f02c1fa4ea6063027ba982c1&#34;&gt;参考&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://blog.coderzh.com/2015/08/29/hugo/&#34;&gt;http://blog.coderzh.com/2015/08/29/hugo/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://blog.bpcoder.com/2015/12/hugo-create-blog/&#34;&gt;http://blog.bpcoder.com/2015/12/hugo-create-blog/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://tonybai.com/2015/09/23/intro-of-gohugo/&#34;&gt;http://tonybai.com/2015/09/23/intro-of-gohugo/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://nanshu.wang/post/2015-01-31/&#34;&gt;http://nanshu.wang/post/2015-01-31/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.jianshu.com/p/b66754c0baa6&#34;&gt;http://www.jianshu.com/p/b66754c0baa6&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;更换主题:2bca3ed9f02c1fa4ea6063027ba982c1&#34;&gt;更换主题&lt;/h1&gt;
-
-&lt;p&gt;看到喜欢的主题（theme）可以下载到自己的博客文件夹里，然后在config.toml里配置一下 “theme＝“xxxx””即可。&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.coderzh.com/2016/03/27/hugo-pacman-theme/&#34;&gt;http://blog.coderzh.com/2016/03/27/hugo-pacman-theme/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>自我介绍｜关于maxsou</title>
-      <link>http://maxsou.github.io/post/aboutme</link>
-      <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://maxsou.github.io/post/aboutme</guid>
-      <description>
-
-&lt;h1 id=&#34;历史:e6001a249cf5befaf09e28d15df6b465&#34;&gt;历史&lt;/h1&gt;
-
-&lt;p&gt;&lt;li&gt;出生于中国东北。
-&lt;li&gt;大学就读于中国南方。
-&lt;li&gt;毕业后留学日本，就职于某“正经”日本企业。&lt;/p&gt;
-
-&lt;h1 id=&#34;如今:e6001a249cf5befaf09e28d15df6b465&#34;&gt;如今&lt;/h1&gt;
-
-&lt;p&gt;&lt;li&gt;工作内容是系统开发。
-&lt;li&gt;喜欢编程，工作上用的是java，在学Ruby。
-&lt;li&gt;喜欢动漫和旅游。游遍了日本四个岛屿－－北海道，本州，四国，九州。 &lt;/br&gt;
-因为出生于北方怕冷的缘故，对四国和九州情有独钟。&lt;/p&gt;
 </description>
     </item>
     
