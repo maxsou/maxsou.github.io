@@ -10,7 +10,7 @@
     <atom:link href="http://maxsou.github.io/categories/tour/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>游遍日本｜跟着小狛来旅行</title>
+      <title>跟着小狛 游遍日本</title>
       <link>http://maxsou.github.io/post/tour-all/</link>
       <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
       
@@ -21,7 +21,7 @@
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;区域&lt;/th&gt;
-&lt;th&gt;地名&lt;/th&gt;
+&lt;th&gt;城市&lt;/th&gt;
 &lt;th&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
@@ -29,19 +29,31 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;北海道&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E9%81%93&#34;&gt;－Wiki&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;东北&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%97%E5%9C%B0%E6%96%B9&#34;&gt;－Wiki&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;关东&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://maxsou.github.io/post/tour-sakura&#34;&gt;东京&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://maxsou.github.io/post/tour-sakura2&#34;&gt;东京2&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://maxsou.github.io/post/tour-sakura&#34;&gt;东京（1）&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;http://maxsou.github.io/post/tour-sakura2&#34;&gt;东京（2）&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;关西&lt;/td&gt;
+&lt;td&gt;中部&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%83%A8%E5%9C%B0%E6%96%B9&#34;&gt;－Wiki&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;近畿&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%9C%B0%E6%96%B9&#34;&gt;－Wiki&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -107,7 +119,8 @@
       <pubDate>Mon, 28 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>http://maxsou.github.io/post/tour-sakura/</guid>
-      <description>&lt;p&gt;公园好大，逛了一下午。
+      <description>&lt;p&gt;公园很大，横跨了两个铁路站。
+花了一下午还没逛完。
 &lt;img src=&#34;http://maxsou.github.io/media/DSC6833.JPG&#34; alt=&#34;红色&#34;  attr width=&#34;75%&#34;  &gt;
 &lt;img src=&#34;http://maxsou.github.io/media/DSC6837.JPG&#34; alt=&#34;绿色&#34; attr width=&#34;75%&#34;  &gt;
 &lt;img src=&#34;http://maxsou.github.io/media/DSC6853.JPG&#34; alt=&#34;粉色&#34; attr width=&#34;75%&#34;  &gt;
@@ -127,9 +140,7 @@
       <pubDate>Thu, 27 Aug 2015 00:00:00 +0000</pubDate>
       
       <guid>http://maxsou.github.io/post/tour-kyuusyu/</guid>
-      <description>&lt;hr&gt;
-
-&lt;p&gt;&lt;font color=pink&gt;
+      <description>&lt;p&gt;&lt;font color=pink&gt;
 2016年4月17日 更新&lt;br&gt;
 2016年4月14日 晚上9点半左右，熊本大地震。日本地震震源在海上的居多，比如2011年的东日本大震灾。
 这次的熊本大地震的震源在陆地（熊本县的一个小乡村），房屋倒塌了不少，死亡人数随着救援队的救援工作的持续，一直在增加。
