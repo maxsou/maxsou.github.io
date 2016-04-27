@@ -63,7 +63,9 @@ $ brew install hugo&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;更换主题:2bca3ed9f02c1fa4ea6063027ba982c1&#34;&gt;更换主题&lt;/h1&gt;
 
-&lt;p&gt;看到喜欢的主题（theme）可以下载到自己的博客文件夹里，然后在config.toml里配置一下 “theme＝“xxxx””即可。&lt;/p&gt;
+&lt;p&gt;看到喜欢的主题（theme）可以下载到自己的博客相应文件夹“theme”或者“themes”里，&lt;/p&gt;
+
+&lt;p&gt;然后在config.toml里修改配置“theme＝“xxxx””即可。&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://blog.coderzh.com/2016/03/27/hugo-pacman-theme/&#34;&gt;http://blog.coderzh.com/2016/03/27/hugo-pacman-theme/&lt;/a&gt;&lt;/li&gt;

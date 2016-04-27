@@ -6,8 +6,24 @@
     <description>Recent content in Wordpress on SOU研究室</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 17 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://maxsou.github.io/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>多年经验｜macbook的常用命令</title>
+      <link>http://maxsou.github.io/post/code-macbook/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/code-macbook/</guid>
+      <description>
+
+&lt;h3 id=&#34;macbook-启动消音:d8b0fd6d0dd66b6cca86af96396306c8&#34;&gt;macbook 启动消音&lt;/h3&gt;
+
+&lt;p&gt;&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
+sudo nvram SystemAudioVolume=&amp;rdquo; &amp;ldquo;
+&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>多年经验｜如何给网页添加在线报名功能</title>

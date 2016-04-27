@@ -2,18 +2,18 @@
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
-  <title>太宰府 - SOU研究室</title>
+  <title>多年经验｜macbook的常用命令 - SOU研究室</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1">
   
-  <meta name="description" content="太宰府">
+  <meta name="description" content="macbook 启动消音 sudo nvram SystemAudioVolume=&rdquo; &ldquo;">
   <meta name="author" content="maxsou">
-  <meta itemprop="name" content="太宰府 - SOU研究室">
-  <meta itemprop="description" content="太宰府">
+  <meta itemprop="name" content="多年经验｜macbook的常用命令 - SOU研究室">
+  <meta itemprop="description" content="macbook 启动消音 sudo nvram SystemAudioVolume=&rdquo; &ldquo;">
   <meta itemprop="image" content="http://maxsou.github.io/img/author.jpg">
   
   
   <meta name="twitter:description" content="">
-  <link rel="alternate" href="http://maxsou.github.io/feed.xml" title="SOU研究室" type="application/rss+xml"/>
+  
   <link rel="shortcut icon" href="http://maxsou.github.io/img/favicon.ico"/>
   <link rel="apple-touch-icon" href="http://maxsou.github.io/apple-touch-icon.png" />
   <link rel="apple-touch-icon-precomposed" href="http://maxsou.github.io/apple-touch-icon.png" />
@@ -57,21 +57,94 @@
 
   </header>
   <div id="container">
-    <div id="main">
-      
-      <h2 id="2015-08">2015-08</h2>
-      
-      <section class="post" itemscope itemprop="blogPost">
-    <a href="http://maxsou.github.io/post/tour-kyuusyu/" title="旅行路线｜九州旅游的“金三角”：福冈-熊本-大分" itemprop="url">
-    <h1 itemprop="name">旅行路线｜九州旅游的“金三角”：福冈-熊本-大分</h1>
-    <p itemprop="description">2016年4月17日 更新 2016年4月14日 晚上9点半左右，熊本大地震。日本地震震源在海上的居多，比如2011年的东日本大震灾。 这次的熊本大</p>
-    <time datetime="2015-08-27 00:00:00 &#43;0000 UTC" itemprop="datePublished">2015年08月27日</time>
-  </a>
-</section>
+    <div id="main" class="post" itemscope itemprop="blogPost">
+	<article itemprop="articleBody">
+    <header class="article-info clearfix">
+  <h1 itemprop="name">
+      <a href="http://maxsou.github.io/post/code-macbook/" title="多年经验｜macbook的常用命令" itemprop="url">多年经验｜macbook的常用命令</a>
+  </h1>
+  <p class="article-author">By
+    
+      <a href="" title="maxsou">maxsou</a>
+    
+  </p>
+  <p class="article-time">
+    <time datetime="2016-04-27 00:00:00 &#43;0000 UTC" itemprop="datePublished">2016年04月27日</time>
+  </p>
+</header>
 
-      
-      
+	<div class="article-content">
+    
+    
+
+<h3 id="macbook-启动消音:d8b0fd6d0dd66b6cca86af96396306c8">macbook 启动消音</h3>
+
+<p><pre><code  class="highlight">
+sudo nvram SystemAudioVolume=&rdquo; &ldquo;
+</pre></code></p>
+
+	</div>
+  <footer class="article-footer clearfix">
+  
+
+<div class="article-tags">
+  <span></span>
+  
+  <a href="http://maxsou.github.io/tags/wordpress">wordpress</a>
+  
+  <a href="http://maxsou.github.io/tags/macbook">macbook</a>
+  
+  <a href="http://maxsou.github.io/tags/cmd">cmd</a>
+  
+</div>
+
+
+
+
+
+<div class="article-categories">
+  <span></span>
+  
+  <a class="article-category-link" href="http://maxsou.github.io/categories/code">code</a>
+  
+</div>
+
+
+
+  <div class="article-share" id="share">
+    <div data-url="http://maxsou.github.io/post/code-macbook/" data-title="多年经验｜macbook的常用命令" data-tsina="" class="share clearfix">
     </div>
+  </div>
+</footer>
+
+	</article>
+  
+
+
+<section class="comment">
+<div id="disqus_thread"></div>
+</section>
+<script>
+
+
+var disqus_config = function () {
+this.page.url = "http://maxsou.github.io/post/code-macbook/";
+this.page.identifier = "http://maxsou.github.io/post/code-macbook/";
+};
+(function() { 
+var d = document, s = d.createElement('script');
+
+s.src = '//maxsou.disqus.com/embed.js';
+
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+
+</div>
+
     <div class="openaside"><a class="navbutton" href="#" title="显示侧边栏"></a></div>
 <div id="asidepart">
 <div class="closeaside"><a class="closebutton" href="#" title="隐藏侧边栏"></a></div>
@@ -345,6 +418,38 @@ $(document).ready(function(){
 
 <script type="text/javascript">
 $(document).ready(function(){
+  var ai = $('.article-content>iframe'),
+      ae = $('.article-content>embed'),
+      t  = $('#toc'),
+      h  = $('article h2')
+      ah = $('article h2'),
+      ta = $('#toc.toc-aside'),
+      o  = $('.openaside'),
+      c  = $('.closeaside');
+  if(ai.length>0){
+    ai.wrap('<div class="video-container" />');
+  };
+  if(ae.length>0){
+   ae.wrap('<div class="video-container" />');
+  };
+  if(ah.length==0){
+    t.css('display','none');
+  }else{
+    c.click(function(){
+      ta.css('display', 'block').addClass('fadeIn');
+    });
+    o.click(function(){
+      ta.css('display', 'none');
+    });
+    $(window).scroll(function(){
+      ta.css("top",Math.max(140,320-$(this).scrollTop()));
+    });
+  };
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){
   var $this = $('.share'),
       url = $this.attr('data-url'),
       encodedUrl = encodeURIComponent(url),
@@ -371,6 +476,27 @@ $(document).ready(function(){
 });
 </script>
 
+
+<link rel="stylesheet" href="http://maxsou.github.io/fancybox/jquery.fancybox.css" media="screen" type="text/css">
+<script src="http://maxsou.github.io/fancybox/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+  $('.article-content').each(function(i){
+    $(this).find('img').each(function(){
+      if ($(this).parent().hasClass('fancybox')) return;
+      var alt = this.alt;
+      if (alt) $(this).after('<span class="caption">' + alt + '</span>');
+      $(this).wrap('<a href="' + this.src + '" title="' + alt + '" class="fancybox"></a>');
+    });
+    $(this).find('.fancybox').each(function(){
+      $(this).attr('rel', 'article' + i);
+    });
+  });
+  if($.fancybox){
+    $('.fancybox').fancybox();
+  }
+});
+</script>
 
 
 <script>
