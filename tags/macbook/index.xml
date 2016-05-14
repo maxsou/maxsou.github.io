@@ -35,7 +35,7 @@ hugo // 编译
 &lt;h3 id=&#34;macbook:d8b0fd6d0dd66b6cca86af96396306c8&#34;&gt;macbook&lt;/h3&gt;
 
 &lt;p&gt;&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
-sudo nvram SystemAudioVolume=&amp;rdquo; &amp;ldquo; // 启动消音
+command  shift 4  // 选择区域截屏
 &lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
 </description>
     </item>
