@@ -42,7 +42,7 @@
       
       <li><a href="/">首页</a></li>
       
-      <li><a href="/post/aboutme/">关于</a></li>
+      <li><a href="/about/">关于</a></li>
       
       <li>
         <form class="search" method="get" action="https://www.google.com/search">
@@ -130,7 +130,7 @@
   <p class="asidetitle">分类</p>
   <ul>
     
-    <li><a href="http://maxsou.github.io/categories/code" title="code">code<sup>3</sup></a></li>
+    <li><a href="http://maxsou.github.io/categories/code" title="code">code<sup>4</sup></a></li>
     
     <li><a href="http://maxsou.github.io/categories/tour" title="tour">tour<sup>7</sup></a></li>
     
@@ -145,9 +145,11 @@
 	<p class="asidetitle">标签</p>
 		<ul class="clearfix">
       
-			<li><a href="http://maxsou.github.io/tags/blog" title="blog">blog<sup>1</sup></a></li>
+			<li><a href="http://maxsou.github.io/tags/blog" title="blog">blog<sup>2</sup></a></li>
       
 			<li><a href="http://maxsou.github.io/tags/cmd" title="cmd">cmd<sup>1</sup></a></li>
+      
+			<li><a href="http://maxsou.github.io/tags/code" title="code">code<sup>1</sup></a></li>
       
 			<li><a href="http://maxsou.github.io/tags/github" title="github">github<sup>1</sup></a></li>
       
@@ -221,7 +223,7 @@
       
       
       <li class="archive-list-item">
-        <a class="archive-list-link" href="http://maxsou.github.io/post/#2016-05">2016年05月</a><span class="archive-list-count">1</span>
+        <a class="archive-list-link" href="http://maxsou.github.io/post/#2016-05">2016年05月</a><span class="archive-list-count">2</span>
       </li>
       
       
@@ -342,38 +344,6 @@ $(document).ready(function(){
 
 <script type="text/javascript">
 $(document).ready(function(){
-  var ai = $('.article-content>iframe'),
-      ae = $('.article-content>embed'),
-      t  = $('#toc'),
-      h  = $('article h2')
-      ah = $('article h2'),
-      ta = $('#toc.toc-aside'),
-      o  = $('.openaside'),
-      c  = $('.closeaside');
-  if(ai.length>0){
-    ai.wrap('<div class="video-container" />');
-  };
-  if(ae.length>0){
-   ae.wrap('<div class="video-container" />');
-  };
-  if(ah.length==0){
-    t.css('display','none');
-  }else{
-    c.click(function(){
-      ta.css('display', 'block').addClass('fadeIn');
-    });
-    o.click(function(){
-      ta.css('display', 'none');
-    });
-    $(window).scroll(function(){
-      ta.css("top",Math.max(140,320-$(this).scrollTop()));
-    });
-  };
-});
-</script>
-
-<script type="text/javascript">
-$(document).ready(function(){
   var $this = $('.share'),
       url = $this.attr('data-url'),
       encodedUrl = encodeURIComponent(url),
@@ -400,27 +370,6 @@ $(document).ready(function(){
 });
 </script>
 
-
-<link rel="stylesheet" href="http://maxsou.github.io/fancybox/jquery.fancybox.css" media="screen" type="text/css">
-<script src="http://maxsou.github.io/fancybox/jquery.fancybox.pack.js"></script>
-<script type="text/javascript">
-$(document).ready(function(){
-  $('.article-content').each(function(i){
-    $(this).find('img').each(function(){
-      if ($(this).parent().hasClass('fancybox')) return;
-      var alt = this.alt;
-      if (alt) $(this).after('<span class="caption">' + alt + '</span>');
-      $(this).wrap('<a href="' + this.src + '" title="' + alt + '" class="fancybox"></a>');
-    });
-    $(this).find('.fancybox').each(function(){
-      $(this).attr('rel', 'article' + i);
-    });
-  });
-  if($.fancybox){
-    $('.fancybox').fancybox();
-  }
-});
-</script>
 
 
 <script>

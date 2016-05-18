@@ -6,8 +6,32 @@
     <description>Recent content on SOU研究室</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 07 May 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 May 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://maxsou.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>常看博客</title>
+      <link>http://maxsou.github.io/about/link/</link>
+      <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/about/link/</guid>
+      <description>
+
+&lt;h3 id=&#34;coderzh:35369cacd92ce7c7b36c676959175aad&#34;&gt;coderzh&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.coderzh.com/&#34;&gt;http://blog.coderzh.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.gohugo.org/post/&#34;&gt;http://www.gohugo.org/post/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;tonybai:35369cacd92ce7c7b36c676959175aad&#34;&gt;tonybai&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://tonybai.com/&#34;&gt;http://tonybai.com/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>北海道｜时隔四年的相会</title>
@@ -62,20 +86,12 @@
     </item>
     
     <item>
-      <title>常看博客，常用命令</title>
+      <title>常用命令</title>
       <link>http://maxsou.github.io/post/code-macbook/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://maxsou.github.io/post/code-macbook/</guid>
       <description>
-
-&lt;h3 id=&#34;coderzh:d8b0fd6d0dd66b6cca86af96396306c8&#34;&gt;coderzh&lt;/h3&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://blog.coderzh.com/&#34;&gt;http://blog.coderzh.com/&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;hugo:d8b0fd6d0dd66b6cca86af96396306c8&#34;&gt;hugo&lt;/h3&gt;
 
@@ -89,6 +105,12 @@ hugo // 编译
 &lt;p&gt;&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
 command  shift 4  // 选择区域截屏
 &lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Macbook 快捷键&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://support.apple.com/ja-jp/HT201236&#34;&gt;https://support.apple.com/ja-jp/HT201236&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     

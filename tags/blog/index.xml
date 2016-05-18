@@ -6,8 +6,32 @@
     <description>Recent content in Blog on SOU研究室</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 09 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 May 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://maxsou.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>常看博客</title>
+      <link>http://maxsou.github.io/about/link/</link>
+      <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/about/link/</guid>
+      <description>
+
+&lt;h3 id=&#34;coderzh:35369cacd92ce7c7b36c676959175aad&#34;&gt;coderzh&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.coderzh.com/&#34;&gt;http://blog.coderzh.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.gohugo.org/post/&#34;&gt;http://www.gohugo.org/post/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;tonybai:35369cacd92ce7c7b36c676959175aad&#34;&gt;tonybai&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://tonybai.com/&#34;&gt;http://tonybai.com/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>多年经验｜如何用Hugo＋Github写博客</title>
