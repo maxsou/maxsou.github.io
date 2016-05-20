@@ -10,7 +10,7 @@
     <atom:link href="http://maxsou.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>常看博客</title>
+      <title>链接｜常看博客</title>
       <link>http://maxsou.github.io/about/link/</link>
       <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
       
@@ -86,19 +86,12 @@
     </item>
     
     <item>
-      <title>常用命令</title>
+      <title>多年经验｜在macbook上常用的命令</title>
       <link>http://maxsou.github.io/post/code-macbook/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://maxsou.github.io/post/code-macbook/</guid>
       <description>
-
-&lt;h3 id=&#34;hugo:d8b0fd6d0dd66b6cca86af96396306c8&#34;&gt;hugo&lt;/h3&gt;
-
-&lt;p&gt;&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
-hugo server // local 编译 preview
-hugo // 编译
-&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;macbook:d8b0fd6d0dd66b6cca86af96396306c8&#34;&gt;macbook&lt;/h3&gt;
 
@@ -111,6 +104,13 @@ command  shift 4  // 选择区域截屏
 
 &lt;p&gt;&lt;a href=&#34;https://support.apple.com/ja-jp/HT201236&#34;&gt;https://support.apple.com/ja-jp/HT201236&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;h3 id=&#34;hugo:d8b0fd6d0dd66b6cca86af96396306c8&#34;&gt;hugo&lt;/h3&gt;
+
+&lt;p&gt;&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
+hugo server // local 编译 preview
+hugo // 编译
+&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
 </description>
     </item>
     
