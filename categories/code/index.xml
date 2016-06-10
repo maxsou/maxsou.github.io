@@ -46,13 +46,13 @@ $ rails server // 启动服务器。启动后可以通过访问about页面来验
     
     <item>
       <title>链接｜常看博客</title>
-      <link>http://maxsou.github.io/about/link/</link>
+      <link>http://maxsou.github.io/post/code-link/</link>
       <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://maxsou.github.io/about/link/</guid>
+      <guid>http://maxsou.github.io/post/code-link/</guid>
       <description>
 
-&lt;h3 id=&#34;coderzh:35369cacd92ce7c7b36c676959175aad&#34;&gt;coderzh&lt;/h3&gt;
+&lt;h3 id=&#34;coderzh:1a74a0a555dc194a691397b7efcb6513&#34;&gt;coderzh&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://blog.coderzh.com/&#34;&gt;http://blog.coderzh.com/&lt;/a&gt;&lt;/p&gt;
@@ -60,7 +60,7 @@ $ rails server // 启动服务器。启动后可以通过访问about页面来验
 &lt;p&gt;&lt;a href=&#34;http://www.gohugo.org/post/&#34;&gt;http://www.gohugo.org/post/&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;tonybai:35369cacd92ce7c7b36c676959175aad&#34;&gt;tonybai&lt;/h3&gt;
+&lt;h3 id=&#34;tonybai:1a74a0a555dc194a691397b7efcb6513&#34;&gt;tonybai&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://tonybai.com/&#34;&gt;http://tonybai.com/&lt;/a&gt;&lt;/p&gt;

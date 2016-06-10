@@ -2,18 +2,18 @@
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
-  <title>Rails的魅力｜不写一行代码就能创建一个应用服务 - SOU研究室</title>
+  <title>Maxsou - SOU研究室</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1">
   
-  <meta name="description" content="Ruby On Rails 假设你已经配置好了Ruby On Rails的环境，那么接下来让我们一起创建一个很简单的Twitter系统吧。 在整个过程中，只需要在终端上输">
+  <meta name="description" content="Maxsou">
   <meta name="author" content="maxsou">
-  <meta itemprop="name" content="Rails的魅力｜不写一行代码就能创建一个应用服务 - SOU研究室">
-  <meta itemprop="description" content="Ruby On Rails 假设你已经配置好了Ruby On Rails的环境，那么接下来让我们一起创建一个很简单的Twitter系统吧。 在整个过程中，只需要在终端上输">
+  <meta itemprop="name" content="Maxsou - SOU研究室">
+  <meta itemprop="description" content="Maxsou">
   <meta itemprop="image" content="http://maxsou.github.io/img/author.jpg">
   
   
   <meta name="twitter:description" content="">
-  
+  <link rel="alternate" href="http://maxsou.github.io/feed.xml" title="SOU研究室" type="application/rss+xml"/>
   <link rel="shortcut icon" href="http://maxsou.github.io/img/favicon.ico"/>
   <link rel="apple-touch-icon" href="http://maxsou.github.io/apple-touch-icon.png" />
   <link rel="apple-touch-icon-precomposed" href="http://maxsou.github.io/apple-touch-icon.png" />
@@ -57,90 +57,21 @@
 
   </header>
   <div id="container">
-    <div id="main" class="post" itemscope itemprop="blogPost">
-	<article itemprop="articleBody">
-    <header class="article-info clearfix">
-  <h1 itemprop="name">
-      <a href="http://maxsou.github.io/post/code-rails/" title="Rails的魅力｜不写一行代码就能创建一个应用服务" itemprop="url">Rails的魅力｜不写一行代码就能创建一个应用服务</a>
-  </h1>
-  <p class="article-author">By
-    
-      <a href="" title="maxsou">maxsou</a>
-    
-  </p>
-  <p class="article-time">
-    <time datetime="2016-06-08 00:00:00 &#43;0000 UTC" itemprop="datePublished">2016年06月08日</time>
-  </p>
-</header>
+    <div id="main">
+      
+      <h2 id="2016-03">2016-03</h2>
+      
+      <section class="post" itemscope itemprop="blogPost">
+    <a href="http://maxsou.github.io/about/aboutme" title="自我介绍｜关于maxsou" itemprop="url">
+    <h1 itemprop="name">自我介绍｜关于maxsou</h1>
+    <p itemprop="description">历史 出生于中国东北。 大学就读于中国南方。 毕业后留学日本，就职于某“正经”日本企业。 如今 工作内容是系统开发。 喜欢编程，工作上用的是java，在</p>
+    <time datetime="2016-03-09 00:00:00 &#43;0000 UTC" itemprop="datePublished">2016年03月09日</time>
+  </a>
+</section>
 
-	<div class="article-content">
-    
-    
-
-<h3 id="ruby-on-rails:77595eb5e74a64a5d3a08803704794a6">Ruby On Rails</h3>
-
-<p>假设你已经配置好了Ruby On Rails的环境，那么接下来让我们一起创建一个很简单的Twitter系统吧。
-在整个过程中，只需要在终端上输入一些命令，不编写一行代码就能让你的应用服务跑起来。</p>
-
-<p><pre><code  class="highlight">
-$ rails new sample
-$ cd sample
-$ rails g scaffold Twitter tweet:string
-$ rake db:migrate
-$ rails server // 启动服务器。启动后可以通过访问about页面来验证是否成功启动了服务器。
-</pre></code></p>
-
-<p>about页面</p>
-
-<blockquote>
-<p><a href="http://localhost:3000">http://localhost:3000</a></p>
-</blockquote>
-
-<p>如果你成功执行了以上命令，那么点击下面链接来访问你的本地应用服务吧。</p>
-
-<blockquote>
-<p><a href="http://localhost:3000/twitters">http://localhost:3000/twitters</a></p>
-</blockquote>
-
-	</div>
-  <footer class="article-footer clearfix">
-  
-
-<div class="article-tags">
-  <span></span>
-  
-  <a href="http://maxsou.github.io/tags/ruby-rails">ruby rails</a>
-  
-  <a href="http://maxsou.github.io/tags/macbook">macbook</a>
-  
-</div>
-
-
-
-
-
-<div class="article-categories">
-  <span></span>
-  
-  <a class="article-category-link" href="http://maxsou.github.io/categories/code">code</a>
-  
-</div>
-
-
-
-  <div class="article-share" id="share">
-    <div data-url="http://maxsou.github.io/post/code-rails/" data-title="Rails的魅力｜不写一行代码就能创建一个应用服务" data-tsina="3246341605" class="share clearfix">
+      
+      
     </div>
-  </div>
-</footer>
-
-	</article>
-  
-
-
-
-</div>
-
     <div class="openaside"><a class="navbutton" href="#" title="显示侧边栏"></a></div>
 <div id="asidepart">
 <div class="closeaside"><a class="closebutton" href="#" title="隐藏侧边栏"></a></div>
@@ -386,38 +317,6 @@ $(document).ready(function(){
 
 <script type="text/javascript">
 $(document).ready(function(){
-  var ai = $('.article-content>iframe'),
-      ae = $('.article-content>embed'),
-      t  = $('#toc'),
-      h  = $('article h2')
-      ah = $('article h2'),
-      ta = $('#toc.toc-aside'),
-      o  = $('.openaside'),
-      c  = $('.closeaside');
-  if(ai.length>0){
-    ai.wrap('<div class="video-container" />');
-  };
-  if(ae.length>0){
-   ae.wrap('<div class="video-container" />');
-  };
-  if(ah.length==0){
-    t.css('display','none');
-  }else{
-    c.click(function(){
-      ta.css('display', 'block').addClass('fadeIn');
-    });
-    o.click(function(){
-      ta.css('display', 'none');
-    });
-    $(window).scroll(function(){
-      ta.css("top",Math.max(140,320-$(this).scrollTop()));
-    });
-  };
-});
-</script>
-
-<script type="text/javascript">
-$(document).ready(function(){
   var $this = $('.share'),
       url = $this.attr('data-url'),
       encodedUrl = encodeURIComponent(url),
@@ -444,27 +343,6 @@ $(document).ready(function(){
 });
 </script>
 
-
-<link rel="stylesheet" href="http://maxsou.github.io/fancybox/jquery.fancybox.css" media="screen" type="text/css">
-<script src="http://maxsou.github.io/fancybox/jquery.fancybox.pack.js"></script>
-<script type="text/javascript">
-$(document).ready(function(){
-  $('.article-content').each(function(i){
-    $(this).find('img').each(function(){
-      if ($(this).parent().hasClass('fancybox')) return;
-      var alt = this.alt;
-      if (alt) $(this).after('<span class="caption">' + alt + '</span>');
-      $(this).wrap('<a href="' + this.src + '" title="' + alt + '" class="fancybox"></a>');
-    });
-    $(this).find('.fancybox').each(function(){
-      $(this).attr('rel', 'article' + i);
-    });
-  });
-  if($.fancybox){
-    $('.fancybox').fancybox();
-  }
-});
-</script>
 
 
 <script>
