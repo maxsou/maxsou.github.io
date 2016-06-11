@@ -22,13 +22,14 @@
 &lt;p&gt;假设你已经配置好了Ruby On Rails的环境，那么接下来让我们一起创建一个很简单的Twitter系统吧。
 在整个过程中，只需要在终端上输入一些命令，不编写一行代码就能让你的应用服务跑起来。&lt;/p&gt;
 
-&lt;p&gt;&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
+&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
 $ rails new sample
 $ cd sample
 $ rails g scaffold Twitter tweet:string
 $ rake db:migrate
 $ rails server // 启动服务器。启动后可以通过访问about页面来验证是否成功启动了服务器。
-&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
+&lt;/code&gt;
+&lt;/pre&gt;
 
 &lt;p&gt;about页面&lt;/p&gt;
 
@@ -40,6 +41,21 @@ $ rails server // 启动服务器。启动后可以通过访问about页面来验
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://localhost:3000/twitters&#34;&gt;http://localhost:3000/twitters&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;在终端（控制台）点击Control＋C退出服务。&lt;/p&gt;
+
+&lt;p&gt;就在刚才打开的sample文件夹里，再利用做一个用户管理（管理用户的名字和邮箱）的功能。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=“highlight”&gt;
+$ rails g scaffold user name:string email:string
+$ rake db:migrate
+$ rails s // 启动服务器。
+&lt;/code&gt;
+&lt;/pre&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:3000/users&#34;&gt;http://localhost:3000/users&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -69,6 +85,10 @@ $ rails server // 启动服务器。启动后可以通过访问about页面来验
 &lt;p&gt;営業時間 :
 11：30～22：00&lt;/p&gt;
 
+&lt;p&gt;店主一个月里有一半时间在休假。这次来这里也碰到了店主临时休假。&lt;/p&gt;
+
+&lt;p&gt;预定休假时间会写在店门口的月历上。&lt;/p&gt;
+
 &lt;p&gt;住所：
 東京都武蔵野市吉祥寺東町1-4-24&lt;/p&gt;
 
@@ -76,7 +96,7 @@ $ rails server // 启动服务器。启动后可以通过访问about页面来验
 &lt;p&gt;&lt;a href=&#34;http://ameblo.jp/cafefriends/&#34;&gt;http://ameblo.jp/cafefriends/&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;③ドラマカフェ-吉祥寺店:55ef5c97ffa654f75b9f8efcb58af776&#34;&gt;③ドラマカフェ 吉祥寺店&lt;/h3&gt;
+&lt;h3 id=&#34;③-s-ドラマカフェ-吉祥寺店-s-信息过旧-已经变名为プレンスカフェ吉祥寺店-腐女向的王子咖啡:55ef5c97ffa654f75b9f8efcb58af776&#34;&gt;③&lt;s&gt;ドラマカフェ 吉祥寺店&lt;/s&gt; ←信息过旧，已经变名为プレンスカフェ吉祥寺店（腐女向的王子咖啡）&lt;/h3&gt;
 
 &lt;p&gt;営業時間 :
 7:00～24:00&lt;/p&gt;
