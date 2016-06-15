@@ -45,7 +45,7 @@ $ rails server // 启动服务器。启动后可以通过访问about页面来验
 
 &lt;p&gt;在终端（控制台）点击Control＋C退出服务。&lt;/p&gt;
 
-&lt;p&gt;就在刚才打开的sample文件夹里，再利用做一个用户管理（管理用户的名字和邮箱）的功能。&lt;/p&gt;
+&lt;p&gt;就在刚才打开的sample文件夹里，再利用Rails做一个用户管理（管理用户的名字和邮箱）的功能吧。&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=“highlight”&gt;
 $ rails g scaffold user name:string email:string
@@ -61,12 +61,20 @@ $ rails s // 启动服务器。
     </item>
     
     <item>
-      <title>链接｜常看博客</title>
+      <title>学习资料｜RubyChina</title>
       <link>http://maxsou.github.io/post/code-link/</link>
       <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
       
       <guid>http://maxsou.github.io/post/code-link/</guid>
       <description>
+
+&lt;h3 id=&#34;ruby-china:1a74a0a555dc194a691397b7efcb6513&#34;&gt;Ruby-China&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://ruby-china.org/&#34;&gt;https://ruby-china.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/ruby-china/ruby-china/&#34;&gt;https://github.com/ruby-china/ruby-china/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h3 id=&#34;coderzh:1a74a0a555dc194a691397b7efcb6513&#34;&gt;coderzh&lt;/h3&gt;
 
