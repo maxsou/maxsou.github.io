@@ -6,8 +6,96 @@
     <description>Recent content on SOU研究室</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 08 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jun 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://maxsou.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>养老｜关于高龄社会</title>
+      <link>http://maxsou.github.io/post/kaigo-kourei/</link>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/kaigo-kourei/</guid>
+      <description>
+
+&lt;h2 id=&#34;日本到了高龄社会的哪个阶段了:d389c3f3ce1c140fad5c5d0064accfd6&#34;&gt;日本到了高龄社会的哪个阶段了？&lt;/h2&gt;
+
+&lt;h3 id=&#34;按照联合国的标准:d389c3f3ce1c140fad5c5d0064accfd6&#34;&gt;按照联合国的标准&lt;/h3&gt;
+
+&lt;p&gt;|65岁人口所占百分比|被称为|
+|7% - 14%|高齢化社会|
+|14% - 21%|高齢社会|
+|21%超|超高齢社会|&lt;/p&gt;
+
+&lt;p&gt;日本1970年进入高龄化社会，
+1994年进入高龄社会，
+2007年进入超高龄社会。&lt;/p&gt;
+
+&lt;h3 id=&#34;养老问题:d389c3f3ce1c140fad5c5d0064accfd6&#34;&gt;养老问题&lt;/h3&gt;
+
+&lt;p&gt;五人中就有一个人超过65岁，想象就觉得可怕。
+不过这是日本社会的现实情况。&lt;/p&gt;
+
+&lt;p&gt;中国有养儿防老的说法，日本却没有。
+很多老年人只供孩子读书到高中，大学就让孩子自己拿助学贷款，
+毕业慢慢还。如果孩子开始工作还住在家里的话，要每月付房租给爸妈才行。
+所以经纪上相互独立，让儿子养老很难开口也不想开口。这可能源自日本年金（养老金）
+制度的完善－－老年人如果年轻的时候踏实工作，本本分分地交养老金，
+就能从高龄开始得到足够维持自己最低生活保障的养老金。&lt;/p&gt;
+
+&lt;p&gt;但如果身体真的不方便了怎么办。
+没关系，日本还有介护（护理）保险的制度。
+如果身体方便需要护理的话，政府出资90％，自己只需出资10%就可以买自己的护理用具，
+或者叫护理服务。&lt;/p&gt;
+
+&lt;h3 id=&#34;护理服务的缺口:d389c3f3ce1c140fad5c5d0064accfd6&#34;&gt;护理服务的缺口&lt;/h3&gt;
+
+&lt;p&gt;由于少子化，外加护理工作的工作性质（脏，累，压力大），能胜任护理工作的人越来越少。
+但护理服务对人才的需求越来越高。日本年轻人大多喜欢干轻松又体面的工作，
+所以现在出现了很多海外护理人员（越南，中国）－－他们在本国参加完初步培训后来到日本养老院
+或者护理设施边工作边学习。&lt;/p&gt;
+
+&lt;p&gt;现在日本护理机器人发展很全面。我想随着人工智能的发展这些护理机器人会更细致，更体贴地为老人服务。
+现如今的护理机器人有三类。&lt;/p&gt;
+
+&lt;p&gt;1 护理支援型&lt;/p&gt;
+
+&lt;p&gt;2 自立支援型&lt;/p&gt;
+
+&lt;p&gt;3 交流型，保安型&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.kaigo-robot-kanafuku.jp/category/1438992.html&#34;&gt;http://www.kaigo-robot-kanafuku.jp/category/1438992.html&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>学习资料｜RubyChina</title>
+      <link>http://maxsou.github.io/post/code-atom-install/</link>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/code-atom-install/</guid>
+      <description>
+
+&lt;h3 id=&#34;atom:7ff8836d93bf9df434b038aaad9cce3a&#34;&gt;Atom&lt;/h3&gt;
+
+&lt;p&gt;1 点击如下下载链接&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://atom.io/&#34;&gt;https://atom.io/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;2 点击［Download For Mac］ 下载。&lt;/p&gt;
+
+&lt;p&gt;3 点击下载下来的zip文件，得到解压完的［Atom］。&lt;/p&gt;
+
+&lt;p&gt;4 拖拽［Atom］图标到［Finder］的［应用程序］里。&lt;/p&gt;
+
+&lt;p&gt;5 点开［应用程序］里的［Atom］，看到［本app源自网络，打开没问题吗？］的确认框，点Yes。&lt;/p&gt;
+
+&lt;p&gt;6 自此Atom的安装完毕。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Rails的魅力｜不写一行代码就能创建一个应用服务</title>
@@ -56,6 +144,42 @@ $ rails s // 启动服务器。
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://localhost:3000/users&#34;&gt;http://localhost:3000/users&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;gem:77595eb5e74a64a5d3a08803704794a6&#34;&gt;Gem&lt;/h3&gt;
+
+&lt;p&gt;Ruby的Gem相当于java的jar。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=“highlight”&gt;
+### 更新Gem
+
+$ gem update --system
+$ gem -v
+2.6.4
+
+### 从RubyChina更新Gem source
+$ gem sources --add https://gems.ruby-china.org/ --remove https://rubygems.org/
+$ gem sources -l ##查看当前gem版本
+https://gems.ruby-china.org
+&lt;/code&gt;
+&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;查看安装完的rvm的版本:77595eb5e74a64a5d3a08803704794a6&#34;&gt;查看安装完的RVM的版本&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;rvm list known&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;liwei78-rails-practice-code:77595eb5e74a64a5d3a08803704794a6&#34;&gt;liwei78/rails-practice-code&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/liwei78/rails-practice-code&#34;&gt;https://github.com/liwei78/rails-practice-code&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -763,191 +887,6 @@ $ brew install hugo&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
 &lt;li&gt;喜欢编程，工作上用的是java，在学Ruby。
 &lt;li&gt;喜欢动漫和旅游。游遍了日本四个岛屿－－北海道，本州，四国，九州。 &lt;/br&gt;
 因为出生于北方怕冷的缘故，对四国和九州情有独钟。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>旅行路线｜九州旅游的“金三角”：福冈-熊本-大分</title>
-      <link>http://maxsou.github.io/post/tour-kyuusyu/</link>
-      <pubDate>Thu, 27 Aug 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://maxsou.github.io/post/tour-kyuusyu/</guid>
-      <description>&lt;p&gt;&lt;font color=pink&gt;
-2016年4月17日 更新&lt;br&gt;
-2016年4月14日 晚上9点半左右，熊本大地震。日本地震震源在海上的居多，比如2011年的东日本大震灾。
-这次的熊本大地震的震源在陆地（熊本县的一个小乡村），房屋倒塌了不少，死亡人数随着救援队的救援工作的持续，一直在增加。
-直至现在（4月17日）达到41人。其中南阿苏地区的东海大学避难的1000人中有1人死亡，东海大学也因为阿苏大橋被地震和持续的余震摇塌成为孤岛。
-幸好马上被救援队的飞机和媒体发现，马上派直升机前去救援。天灾面前人真的很脆弱啊。
-另外，2014年暑假（8月）去过的熊本城也因为这次地震和持续的无数次余震天守阁瓦片全被晃下来了。
-&lt;/font&gt;
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;p&gt;因为大学院（在北海道）的指导教授是个九州人，他为人固执，
-所以来九州之前，我对九州有了“固执刻板”的既定印象。
-如果说北海道是日本的乡下的话，那么九州也只能五十步笑百步了，
-因为九州也是一个地理位置相对较偏的地方（离人口集中的关东和关西的“东京”“横滨”“大阪”“京都”比较远）。&lt;/p&gt;
-
-&lt;p&gt;北海道因为《非诚勿扰》让国内的很多人了解到它，《蜂蜜与四叶草》和《钢之炼金术师》的作者的最近几年的连载&amp;ndash;《银匙》让很多日本人也对北海道很向往。但给九州打的广告的就不那么多了。《妖怪手表》里的小妖怪们萌遍了全世界，大家也对游戏里的地图了如指掌，但有几个玩家能看出游戏里的地图是照着福冈市的地图来画的呢。（level5公司本社位于福冈市药院站。）当然还有呆萌的熊本熊。&lt;/p&gt;
-
-&lt;p&gt;九州地处日本，东亚（韩国，中国东北）和西洋的交汇处，要说九州的特色少不了日本自古以来的神社（太宰府等），战国时代就有的城池（熊本城等），闻名日本的别府温泉，中华街（长崎）和西洋传过来的各种教堂，洋房（长崎）。貌似很不起眼的九州，其实是日本最丰富多彩的土地。&lt;/p&gt;
-
-&lt;p&gt;如果去福冈只看一个景点的话，首推“太宰府”。太宰府因为地处九州这个中西交界的地方，在古代日本是外交和国防的职能单位，同时也具备九州地区的行政和司法的权利。太宰府下设很多“司”，“所”，是个体系庞大的部门，但现在已经无从考察。
-今天，旅客去看的最多的是太宰府天满宫，那里祭着影响着日本人生活1千多年的菅原道真。（他对汉学很有研究，在那个时代，对中国文化有研究比现在英语学得好还有优势。）京都的北野天满宫也祭着菅原道真，他是日本的学问之神，相当于中国的文曲星。&lt;/p&gt;
-
-&lt;p&gt;从博多站或者福冈机场去的话，最好选择下面这个太宰府周游券。
-只要1000日元，就包括&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;博多・福岡空港国際線～太宰府区间的巴士的单程票&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;福岡（天神）駅～太宰府駅区间的【旅人】列车的单程票&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;太宰府内联络巴士的一日随便乘车的票&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;太宰府院内有日本文明的学问神所在的天满宫。&lt;/p&gt;
-
-&lt;p&gt;参拜是免费的。只有絵馬，抽签，护身符需要500日元左右。&lt;/p&gt;
-
-&lt;p&gt;↑↑↑福冈和熊本的县界↓↓↓&lt;/p&gt;
-
-&lt;p&gt;熊本的标志自然是熊本城（对于国内的大家来说可能会是味千拉面，或者是熊本熊）。&lt;/p&gt;
-
-&lt;p&gt;日本三名城有2种说法。&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;熊本城，名古屋城和大阪城&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;熊本城，名古屋城和姬路城&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;由此可见熊本城的名气了。他的天守是现代重建，但保留了几百年前的样子，绝对对得起三名城的称呼。&lt;/p&gt;
-
-&lt;p&gt;壮阔雄伟的一大一小两天守是它最大的特色，这是加藤清正根据实战经验来设计的。&lt;/p&gt;
-
-&lt;p&gt;重建的本丸御殿深处的金灿灿的“昭君之间”。&lt;/p&gt;
-
-&lt;p&gt;拉门和屏风上花了王昭君主题的画。&lt;/p&gt;
-
-&lt;p&gt;【熊本城入场券价格】&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;大人（高中生以上）500円&lt;/p&gt;
-
-&lt;p&gt;小孩（初中生以下）200円&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;↑↑↑熊本和大分的县界↓↓↓&lt;/p&gt;
-
-&lt;p&gt;来了别府才知道，“温泉不只是用来泡的，还可以用来看”！&lt;/p&gt;
-
-&lt;p&gt;相信你第一次来大分别府来地狱巡礼，看地狱八景也会有同样的震惊。&lt;/p&gt;
-
-&lt;p&gt;【地狱八景包括哪八景？】&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;1 海之地獄&lt;/p&gt;
-
-&lt;p&gt;2 鬼石坊主地獄&lt;/p&gt;
-
-&lt;p&gt;3 山之地獄&lt;/p&gt;
-
-&lt;p&gt;4 饭锅(かまど)地獄&lt;/p&gt;
-
-&lt;p&gt;5 鬼山地獄&lt;/p&gt;
-
-&lt;p&gt;6 白池地獄&lt;/p&gt;
-
-&lt;p&gt;7 血池地獄&lt;/p&gt;
-
-&lt;p&gt;8 龍巻地獄&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;【套票价格（在以上任意一个地狱的售票点都能买到）】&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;大人 2,100円&lt;/p&gt;
-
-&lt;p&gt;高中生 1,350円&lt;/p&gt;
-
-&lt;p&gt;初中生 1,000円&lt;/p&gt;
-
-&lt;p&gt;小学生以下 900円&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;【地域巡礼案内所在地图上的位置】&lt;/p&gt;
-
-&lt;p&gt;【交通】&lt;/p&gt;
-
-&lt;p&gt;因为地理位置比较偏，推荐做JR到别府站，再转巴士去地狱巡礼。&lt;/p&gt;
-
-&lt;p&gt;在ＪＲ別府站西口乘以下号码的巴士&lt;/p&gt;
-
-&lt;p&gt;・前往鉄輪方向的巴士：2，5，41，43&lt;/p&gt;
-
-&lt;p&gt;坐20分钟左右，在海地獄前或者鉄輪下车，一下车便是。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>浅谈狐仙｜从苏妲己到杨贵妃，从中国到日本</title>
-      <link>http://maxsou.github.io/post/tour-yamaguchi-yangguifei/</link>
-      <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://maxsou.github.io/post/tour-yamaguchi-yangguifei/</guid>
-      <description>&lt;p&gt;有感于《灵魂摆渡》之《画中仙》。
-从蒲松龄的《聊斋》到前几年日本比较火的“卖肉”动画－－《我的狐仙女友》，
-中日两国的作家和漫画家都喜欢这个神秘的古典妖怪。
-不单因为她可以变成美女诱惑人，法力强大。
-更因为通过她的折射，可以反映出现实世界的人间百态，
-以及作品中每个角色对美丑善恶的态度。&lt;/p&gt;
-
-&lt;p&gt;去年比较火的《灵魂摆渡》（一个很精致的小成本电影，当代版的“聊斋”）也讲了这样一个狐仙的故事。&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;女主角偶遇到了以前赴日留学的朋友，却发现他失魂落魄、狼狈不堪的样子。
-男主角偶然从留学生那里得到被他视如珍宝的一幅画。
-男主角将画拿回家中，发现画中画着一个唐代美女，不知不觉中，
-自己已进入画中，而眼前出现了一个绝世美女，口口声声叫着他“三郎”，
-男主角流连于画中的美好情景－－有美女跳舞弹奏，有美酒美食随便吃，竟不想回到现实了。&lt;/p&gt;
-
-&lt;p&gt;女主角发现男主角好几天没来便利店打工了，察觉到了异常。
-请男二号来帮忙，两人来到男主角家中，看到了那幅神秘的“贵妃夜妆图”。
-男二号说这幅画是用杨贵妃的骨血制作，画与杨贵妃的精魂相溶，
-男主角正在被杨贵妃的鬼魂吸收精气很危险。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;最终&amp;hellip;&amp;hellip;
-要知详情和结局，请自行百度，去看一下好看的《灵魂摆渡》吧。&lt;/p&gt;
-
-&lt;p&gt;那么接下来研究一下杨贵妃到底在日本山口县的哪个地方登陆了吧。
-首先百度一下。
-万能的百度告诉我们她是在山口的大津登陆的，那里还有她的墓地和她老公支持修建的佛塔。
-还有和山西的贵妃像1：1的石像。&lt;/p&gt;
-
-&lt;p&gt;小狛探险队亲自去山口的大津探访了杨贵妃墓地。
-距离墓地100多米就是日本海了，墓地旁边还有好多日式古宅，至今仍有人居住。
-墓地里有个唐风的小亭子，还有贵妃池（心形的小“华清池”）。
-在墓地内的男厕所的洗手台前，还贴着一个为杨贵妃喊冤的剪报－－《毫无政治野心，被政治利用了》&lt;/p&gt;
-
-&lt;p&gt;怎么样，炎炎夏日看了这样的狐仙故事是不是觉得背脊发凉了。
-杨贵妃的野史和一直传到现在的狐仙传说我们没法去肯定和否定，
-但产生它们的背景我们可以去探究，也值得我们去探究。
-正所谓“读万卷书行万里路”，趁着我们还年轻，赶快踏出第一步，
-用足迹来验证我们的所学和所想吧！&lt;/p&gt;
-
-&lt;p&gt;【地址】&lt;br&gt;
-山口県長門市油谷向津具下3539&lt;br&gt;
-　※只能开车去。不然要从“伊上”站下车徒步走2小时40分。&lt;/p&gt;
-
-&lt;p&gt;【参观方法】&lt;br&gt;
-杨贵妃墓地：100円　※自由参拜&lt;br&gt;
-二尊佛：200円　※ 佛像参拜需要预约&lt;br&gt;
-停车场：免费 30辆&lt;br&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -57,6 +57,42 @@ $ rails s // 启动服务器。
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://localhost:3000/users&#34;&gt;http://localhost:3000/users&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;gem:77595eb5e74a64a5d3a08803704794a6&#34;&gt;Gem&lt;/h3&gt;
+
+&lt;p&gt;Ruby的Gem相当于java的jar。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=“highlight”&gt;
+### 更新Gem
+
+$ gem update --system
+$ gem -v
+2.6.4
+
+### 从RubyChina更新Gem source
+$ gem sources --add https://gems.ruby-china.org/ --remove https://rubygems.org/
+$ gem sources -l ##查看当前gem版本
+https://gems.ruby-china.org
+&lt;/code&gt;
+&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;查看安装完的rvm的版本:77595eb5e74a64a5d3a08803704794a6&#34;&gt;查看安装完的RVM的版本&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;rvm list known&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;liwei78-rails-practice-code:77595eb5e74a64a5d3a08803704794a6&#34;&gt;liwei78/rails-practice-code&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/liwei78/rails-practice-code&#34;&gt;https://github.com/liwei78/rails-practice-code&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     

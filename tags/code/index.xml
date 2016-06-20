@@ -6,8 +6,36 @@
     <description>Recent content in Code on SOU研究室</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 May 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jun 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://maxsou.github.io/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>学习资料｜RubyChina</title>
+      <link>http://maxsou.github.io/post/code-atom-install/</link>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/code-atom-install/</guid>
+      <description>
+
+&lt;h3 id=&#34;atom:7ff8836d93bf9df434b038aaad9cce3a&#34;&gt;Atom&lt;/h3&gt;
+
+&lt;p&gt;1 点击如下下载链接&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://atom.io/&#34;&gt;https://atom.io/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;2 点击［Download For Mac］ 下载。&lt;/p&gt;
+
+&lt;p&gt;3 点击下载下来的zip文件，得到解压完的［Atom］。&lt;/p&gt;
+
+&lt;p&gt;4 拖拽［Atom］图标到［Finder］的［应用程序］里。&lt;/p&gt;
+
+&lt;p&gt;5 点开［应用程序］里的［Atom］，看到［本app源自网络，打开没问题吗？］的确认框，点Yes。&lt;/p&gt;
+
+&lt;p&gt;6 自此Atom的安装完毕。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>学习资料｜RubyChina</title>
