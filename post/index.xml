@@ -21,10 +21,31 @@
 
 &lt;h3 id=&#34;按照联合国的标准:d389c3f3ce1c140fad5c5d0064accfd6&#34;&gt;按照联合国的标准&lt;/h3&gt;
 
-&lt;p&gt;|65岁人口所占百分比|被称为|
-|7% - 14%|高齢化社会|
-|14% - 21%|高齢社会|
-|21%超|超高齢社会|&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;65岁人口所占百分比&lt;/th&gt;
+&lt;th&gt;被称为&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;7% - 14%&lt;/td&gt;
+&lt;td&gt;高齢化社会&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;14% - 21%&lt;/td&gt;
+&lt;td&gt;高齢社会&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;21%超&lt;/td&gt;
+&lt;td&gt;超高齢社会&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;p&gt;日本1970年进入高龄化社会，
 1994年进入高龄社会，
@@ -70,7 +91,7 @@
     </item>
     
     <item>
-      <title>学习资料｜RubyChina</title>
+      <title>多年经验｜Atom安装</title>
       <link>http://maxsou.github.io/post/code-atom-install/</link>
       <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
       
