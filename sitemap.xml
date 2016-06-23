@@ -3,17 +3,22 @@
   
   <url>
     <loc>http://maxsou.github.io/</loc>
-    <lastmod>2016-06-20T00:00:00+00:00</lastmod>
+    <lastmod>2016-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://maxsou.github.io/post/kaigo-kourei/</loc>
-    <lastmod>2016-06-20T00:00:00+00:00</lastmod>
+    <loc>http://maxsou.github.io/post/robo-fukushi/</loc>
+    <lastmod>2016-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://maxsou.github.io/post/code-atom-install/</loc>
+    <lastmod>2016-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://maxsou.github.io/post/robo-kourei/</loc>
     <lastmod>2016-06-20T00:00:00+00:00</lastmod>
   </url>
   
