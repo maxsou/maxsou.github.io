@@ -17,7 +17,7 @@
       <guid>http://maxsou.github.io/post/code-macbook/</guid>
       <description>
 
-&lt;h3 id=&#34;macbook:d8b0fd6d0dd66b6cca86af96396306c8&#34;&gt;macbook&lt;/h3&gt;
+&lt;h3 id=&#34;macbook&#34;&gt;macbook&lt;/h3&gt;
 
 &lt;p&gt;&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
 command  shift 4  // 选择区域截屏
@@ -29,7 +29,7 @@ command  shift 4  // 选择区域截屏
 &lt;p&gt;&lt;a href=&#34;https://support.apple.com/ja-jp/HT201236&#34;&gt;https://support.apple.com/ja-jp/HT201236&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;hugo:d8b0fd6d0dd66b6cca86af96396306c8&#34;&gt;hugo&lt;/h3&gt;
+&lt;h3 id=&#34;hugo&#34;&gt;hugo&lt;/h3&gt;
 
 &lt;p&gt;&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
 hugo server // local 编译 preview

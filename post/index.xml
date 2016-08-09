@@ -6,8 +6,29 @@
     <description>Recent content in Posts on SOU研究室</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 22 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Aug 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://maxsou.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>多年经验｜如何往hugo文章里插入youtube视频</title>
+      <link>http://maxsou.github.io/post/code-youtube/</link>
+      <pubDate>Tue, 09 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/code-youtube/</guid>
+      <description>&lt;p&gt;谷阿莫 《愤怒的小鸟》介绍
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/MqQb1aAtqdo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;{ {&lt; youtube MqQb1aAtqdo &gt;}} // 为了不让这段代码被执行，在开头的两个括号之间加了一个半小空格。&lt;/code&gt;&lt;/pre&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io/extras/shortcodes/&#34;&gt;https://gohugo.io/extras/shortcodes/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>福祉｜日本的机器人制造</title>
@@ -17,7 +38,7 @@
       <guid>http://maxsou.github.io/post/robo-fukushi/</guid>
       <description>
 
-&lt;h2 id=&#34;日本有哪些制造护理-福祉机器人的公司:bcec0eda24a0d17202ced8fdd4bcfdec&#34;&gt;日本有哪些制造护理／福祉机器人的公司？&lt;/h2&gt;
+&lt;h2 id=&#34;日本有哪些制造护理-福祉机器人的公司&#34;&gt;日本有哪些制造护理／福祉机器人的公司？&lt;/h2&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;在本文，护理福祉机器人／护理机器人／福祉机器人／护理支援机器人都是指同一个意思。&lt;/p&gt;
@@ -25,7 +46,7 @@
 &lt;p&gt;可以参考&lt;a href=&#34;http://www.kaigo-robot-kanafuku.jp/article/13835329.html&#34;&gt;护理机器人（日文）&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;cyberdyn:bcec0eda24a0d17202ced8fdd4bcfdec&#34;&gt;CYBERDYN&lt;/h3&gt;
+&lt;h3 id=&#34;cyberdyn&#34;&gt;CYBERDYN&lt;/h3&gt;
 
 &lt;p&gt;［HAL］是筑波大学起家的创业公司CYBERDYN的产品。它相当于一个会读心术的机器人，
 你可以通过无数次意识和行动的实际教学，来教会它怎么更配合你走路，搬东西。&lt;/p&gt;
@@ -34,7 +55,7 @@
 &lt;p&gt;&lt;a href=&#34;http://www.cyberdyne.jp/products/HAL/index.html&#34;&gt;http://www.cyberdyne.jp/products/HAL/index.html&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;大和house工业:bcec0eda24a0d17202ced8fdd4bcfdec&#34;&gt;大和HOUSE工业&lt;/h3&gt;
+&lt;h3 id=&#34;大和house工业&#34;&gt;大和HOUSE工业&lt;/h3&gt;
 
 &lt;p&gt;大和HOUSE工业在2014年8月公布了2021年靠护理／福祉机器人达到50亿日元销售额的目标。
 2013年开始贩卖步行训练器械［POPO］，2014年计划贩卖2013年的1.7倍，200台。&lt;/p&gt;
@@ -43,7 +64,7 @@
 &lt;p&gt;&lt;a href=&#34;http://www.nikkei.com/article/DGXLASDZ1907K_Z10C14A8TJ1000/&#34;&gt;http://www.nikkei.com/article/DGXLASDZ1907K_Z10C14A8TJ1000/&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;菊池制造所:bcec0eda24a0d17202ced8fdd4bcfdec&#34;&gt;菊池制造所&lt;/h3&gt;
+&lt;h3 id=&#34;菊池制造所&#34;&gt;菊池制造所&lt;/h3&gt;
 
 &lt;p&gt;［マッスルスーツ ］穿在身上的辅助设备。和［HAL］类似。
 适用于护理，物流产业的现场，能减少劳务人员的腰部负担。&lt;/p&gt;
@@ -52,7 +73,7 @@
 &lt;p&gt;&lt;a href=&#34;http://www.kikuchiseisakusho.co.jp/mechatro2/RobotTechnology.html&#34;&gt;http://www.kikuchiseisakusho.co.jp/mechatro2/RobotTechnology.html&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;安川電機:bcec0eda24a0d17202ced8fdd4bcfdec&#34;&gt;安川電機&lt;/h3&gt;
+&lt;h3 id=&#34;安川電機&#34;&gt;安川電機&lt;/h3&gt;
 
 &lt;p&gt;在2014年10月1～3日的东京BIGSITE举行的第四十一届国际福祉机器展（HCR）上，
 安川电机公开了面向下肢不方便的人的复健设备，这就是2015年4月开始在神奈川的复健医院里
@@ -63,7 +84,7 @@
 &lt;a href=&#34;https://www.yaskawa.co.jp/newsrelease/product/11027&#34;&gt;https://www.yaskawa.co.jp/newsrelease/product/11027&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;富士软件:bcec0eda24a0d17202ced8fdd4bcfdec&#34;&gt;富士软件&lt;/h3&gt;
+&lt;h3 id=&#34;富士软件&#34;&gt;富士软件&lt;/h3&gt;
 
 &lt;p&gt;[palro]是富士软件（FUJISOFT）制造开发贩卖的护理支援型机器人。和softbank的paper类似，能陪人聊天。体积小巧，可以摆在桌上和它对话。palro不只会陪人聊天，还能跳舞（可以通过这个功能带领老人一起做健身操）。&lt;/p&gt;
 
@@ -81,7 +102,7 @@
       <guid>http://maxsou.github.io/post/code-atom-install/</guid>
       <description>
 
-&lt;h3 id=&#34;atom:7ff8836d93bf9df434b038aaad9cce3a&#34;&gt;Atom&lt;/h3&gt;
+&lt;h3 id=&#34;atom&#34;&gt;Atom&lt;/h3&gt;
 
 &lt;p&gt;1 点击如下下载链接&lt;/p&gt;
 
@@ -109,9 +130,9 @@
       <guid>http://maxsou.github.io/post/robo-kourei/</guid>
       <description>
 
-&lt;h2 id=&#34;日本到了高龄社会的哪个阶段了:ee3c92b472cb75234eb3aa65773a8af9&#34;&gt;日本到了高龄社会的哪个阶段了？&lt;/h2&gt;
+&lt;h2 id=&#34;日本到了高龄社会的哪个阶段了&#34;&gt;日本到了高龄社会的哪个阶段了？&lt;/h2&gt;
 
-&lt;h3 id=&#34;按照联合国的标准:ee3c92b472cb75234eb3aa65773a8af9&#34;&gt;按照联合国的标准&lt;/h3&gt;
+&lt;h3 id=&#34;按照联合国的标准&#34;&gt;按照联合国的标准&lt;/h3&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -143,7 +164,7 @@
 1994年进入高龄社会，
 2007年进入超高龄社会。&lt;/p&gt;
 
-&lt;h3 id=&#34;养老问题:ee3c92b472cb75234eb3aa65773a8af9&#34;&gt;养老问题&lt;/h3&gt;
+&lt;h3 id=&#34;养老问题&#34;&gt;养老问题&lt;/h3&gt;
 
 &lt;p&gt;五人中就有一个人超过65岁，想象就觉得可怕。
 不过这是日本社会的现实情况。&lt;/p&gt;
@@ -160,7 +181,7 @@
 如果身体方便需要护理的话，政府出资90％，自己只需出资10%就可以买自己的护理用具，
 或者叫护理服务。&lt;/p&gt;
 
-&lt;h3 id=&#34;护理服务的缺口:ee3c92b472cb75234eb3aa65773a8af9&#34;&gt;护理服务的缺口&lt;/h3&gt;
+&lt;h3 id=&#34;护理服务的缺口&#34;&gt;护理服务的缺口&lt;/h3&gt;
 
 &lt;p&gt;由于少子化，外加护理工作的工作性质（脏，累，压力大），能胜任护理工作的人越来越少。
 但护理服务对人才的需求越来越高。日本年轻人大多喜欢干轻松又体面的工作，
@@ -190,7 +211,7 @@
       <guid>http://maxsou.github.io/post/code-rails/</guid>
       <description>
 
-&lt;h3 id=&#34;ruby-on-rails:77595eb5e74a64a5d3a08803704794a6&#34;&gt;Ruby On Rails&lt;/h3&gt;
+&lt;h3 id=&#34;ruby-on-rails&#34;&gt;Ruby On Rails&lt;/h3&gt;
 
 &lt;p&gt;假设你已经配置好了Ruby On Rails的环境，那么接下来让我们一起创建一个很简单的Twitter系统吧。
 在整个过程中，只需要在终端上输入一些命令，不编写一行代码就能让你的应用服务跑起来。&lt;/p&gt;
@@ -233,7 +254,7 @@ $ rails s // 启动服务器。
 
 &lt;hr /&gt;
 
-&lt;h3 id=&#34;gem:77595eb5e74a64a5d3a08803704794a6&#34;&gt;Gem&lt;/h3&gt;
+&lt;h3 id=&#34;gem&#34;&gt;Gem&lt;/h3&gt;
 
 &lt;p&gt;Ruby的Gem相当于java的jar。&lt;/p&gt;
 
@@ -253,7 +274,7 @@ https://gems.ruby-china.org
 
 &lt;hr /&gt;
 
-&lt;h3 id=&#34;查看安装完的rvm的版本:77595eb5e74a64a5d3a08803704794a6&#34;&gt;查看安装完的RVM的版本&lt;/h3&gt;
+&lt;h3 id=&#34;查看安装完的rvm的版本&#34;&gt;查看安装完的RVM的版本&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;rvm list known&lt;/p&gt;
@@ -261,7 +282,7 @@ https://gems.ruby-china.org
 
 &lt;hr /&gt;
 
-&lt;h3 id=&#34;liwei78-rails-practice-code:77595eb5e74a64a5d3a08803704794a6&#34;&gt;liwei78/rails-practice-code&lt;/h3&gt;
+&lt;h3 id=&#34;liwei78-rails-practice-code&#34;&gt;liwei78/rails-practice-code&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/liwei78/rails-practice-code&#34;&gt;https://github.com/liwei78/rails-practice-code&lt;/a&gt;&lt;/p&gt;
@@ -277,7 +298,7 @@ https://gems.ruby-china.org
       <guid>http://maxsou.github.io/post/code-caffe/</guid>
       <description>
 
-&lt;h3 id=&#34;①wired-cafe:55ef5c97ffa654f75b9f8efcb58af776&#34;&gt;①WIRED CAFE&lt;/h3&gt;
+&lt;h3 id=&#34;①wired-cafe&#34;&gt;①WIRED CAFE&lt;/h3&gt;
 
 &lt;p&gt;営業時間 :
 10:00〜22:00&lt;/p&gt;
@@ -289,7 +310,7 @@ https://gems.ruby-china.org
 &lt;p&gt;&lt;a href=&#34;http://www.cafecompany.co.jp/brands/wired/&#34;&gt;http://www.cafecompany.co.jp/brands/wired/&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;②cafe-frends:55ef5c97ffa654f75b9f8efcb58af776&#34;&gt;②cafe FRENDS&lt;/h3&gt;
+&lt;h3 id=&#34;②cafe-frends&#34;&gt;②cafe FRENDS&lt;/h3&gt;
 
 &lt;p&gt;営業時間 :
 11：30～22：00&lt;/p&gt;
@@ -305,7 +326,7 @@ https://gems.ruby-china.org
 &lt;p&gt;&lt;a href=&#34;http://ameblo.jp/cafefriends/&#34;&gt;http://ameblo.jp/cafefriends/&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;③-s-ドラマカフェ-吉祥寺店-s-信息过旧-已经变名为プレンスカフェ吉祥寺店-腐女向的王子咖啡:55ef5c97ffa654f75b9f8efcb58af776&#34;&gt;③&lt;s&gt;ドラマカフェ 吉祥寺店&lt;/s&gt; ←信息过旧，已经变名为プレンスカフェ吉祥寺店（腐女向的王子咖啡）&lt;/h3&gt;
+&lt;h3 id=&#34;③-s-ドラマカフェ-吉祥寺店-s-信息过旧-已经变名为プレンスカフェ吉祥寺店-腐女向的王子咖啡&#34;&gt;③&lt;s&gt;ドラマカフェ 吉祥寺店&lt;/s&gt; ←信息过旧，已经变名为プレンスカフェ吉祥寺店（腐女向的王子咖啡）&lt;/h3&gt;
 
 &lt;p&gt;営業時間 :
 7:00～24:00&lt;/p&gt;
@@ -317,7 +338,7 @@ https://gems.ruby-china.org
 &lt;p&gt;&lt;a href=&#34;http://www.dorama.co.jp/open/post_015898.shtml&#34;&gt;http://www.dorama.co.jp/open/post_015898.shtml&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;④cafe-zenon:55ef5c97ffa654f75b9f8efcb58af776&#34;&gt;④cafe zenon&lt;/h3&gt;
+&lt;h3 id=&#34;④cafe-zenon&#34;&gt;④cafe zenon&lt;/h3&gt;
 
 &lt;p&gt;営業時間 :
 11:00~25:00(Lunch11:00〜15:00)&lt;/p&gt;
@@ -339,7 +360,7 @@ https://gems.ruby-china.org
       <guid>http://maxsou.github.io/post/tour-hanabi/</guid>
       <description>
 
-&lt;h1 id=&#34;关东区域:598af224339dc1cbe3f4647870be5c07&#34;&gt;关东区域&lt;/h1&gt;
+&lt;h1 id=&#34;关东区域&#34;&gt;关东区域&lt;/h1&gt;
 
 &lt;hr style=&#34;border-top: 2px dashed #ff9d9d;width: 100%;&#34;&gt;
 
@@ -471,7 +492,7 @@ https://gems.ruby-china.org
 
 &lt;p&gt;神奈川県横須賀市久里浜7丁目14番&lt;/p&gt;
 
-&lt;h1 id=&#34;信越区域:598af224339dc1cbe3f4647870be5c07&#34;&gt;信越区域&lt;/h1&gt;
+&lt;h1 id=&#34;信越区域&#34;&gt;信越区域&lt;/h1&gt;
 
 &lt;hr style=&#34;border-top: 2px dashed #ff9d9d;width: 100%;&#34;&gt;
 
@@ -498,7 +519,7 @@ https://gems.ruby-china.org
 
 &lt;p&gt;場所：諏訪市湖畔前諏訪湖上&lt;/p&gt;
 
-&lt;h1 id=&#34;東北区域:598af224339dc1cbe3f4647870be5c07&#34;&gt;東北区域&lt;/h1&gt;
+&lt;h1 id=&#34;東北区域&#34;&gt;東北区域&lt;/h1&gt;
 
 &lt;hr style=&#34;border-top: 2px dashed #ff9d9d;width: 100%;&#34;&gt;
 
@@ -512,7 +533,7 @@ https://gems.ruby-china.org
 
 &lt;p&gt;昼花火 17:30〜 ／ 夜花火 18:50〜&lt;/p&gt;
 
-&lt;h1 id=&#34;東海-近畿区域:598af224339dc1cbe3f4647870be5c07&#34;&gt;東海・近畿区域&lt;/h1&gt;
+&lt;h1 id=&#34;東海-近畿区域&#34;&gt;東海・近畿区域&lt;/h1&gt;
 
 &lt;hr style=&#34;border-top: 2px dashed #ff9d9d;width: 100%;&#34;&gt;
 
@@ -570,7 +591,7 @@ https://gems.ruby-china.org
 
 &lt;p&gt;場所：静岡県袋井市　原野谷川親水公園&lt;/p&gt;
 
-&lt;h1 id=&#34;中国-九州区域:598af224339dc1cbe3f4647870be5c07&#34;&gt;中国・九州区域&lt;/h1&gt;
+&lt;h1 id=&#34;中国-九州区域&#34;&gt;中国・九州区域&lt;/h1&gt;
 
 &lt;hr style=&#34;border-top: 2px dashed #ff9d9d;width: 100%;&#34;&gt;
 
@@ -625,7 +646,7 @@ https://gems.ruby-china.org
       <guid>http://maxsou.github.io/post/code-link/</guid>
       <description>
 
-&lt;h3 id=&#34;ruby-china:1a74a0a555dc194a691397b7efcb6513&#34;&gt;Ruby-China&lt;/h3&gt;
+&lt;h3 id=&#34;ruby-china&#34;&gt;Ruby-China&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://ruby-china.org/&#34;&gt;https://ruby-china.org/&lt;/a&gt;&lt;/p&gt;
@@ -633,7 +654,7 @@ https://gems.ruby-china.org
 &lt;p&gt;&lt;a href=&#34;https://github.com/ruby-china/ruby-china/&#34;&gt;https://github.com/ruby-china/ruby-china/&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;coderzh:1a74a0a555dc194a691397b7efcb6513&#34;&gt;coderzh&lt;/h3&gt;
+&lt;h3 id=&#34;coderzh&#34;&gt;coderzh&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://blog.coderzh.com/&#34;&gt;http://blog.coderzh.com/&lt;/a&gt;&lt;/p&gt;
@@ -641,7 +662,7 @@ https://gems.ruby-china.org
 &lt;p&gt;&lt;a href=&#34;http://www.gohugo.org/post/&#34;&gt;http://www.gohugo.org/post/&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;tonybai:1a74a0a555dc194a691397b7efcb6513&#34;&gt;tonybai&lt;/h3&gt;
+&lt;h3 id=&#34;tonybai&#34;&gt;tonybai&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://tonybai.com/&#34;&gt;http://tonybai.com/&lt;/a&gt;&lt;/p&gt;
@@ -709,7 +730,7 @@ https://gems.ruby-china.org
       <guid>http://maxsou.github.io/post/code-macbook/</guid>
       <description>
 
-&lt;h3 id=&#34;macbook:d8b0fd6d0dd66b6cca86af96396306c8&#34;&gt;macbook&lt;/h3&gt;
+&lt;h3 id=&#34;macbook&#34;&gt;macbook&lt;/h3&gt;
 
 &lt;p&gt;&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
 command  shift 4  // 选择区域截屏
@@ -721,7 +742,7 @@ command  shift 4  // 选择区域截屏
 &lt;p&gt;&lt;a href=&#34;https://support.apple.com/ja-jp/HT201236&#34;&gt;https://support.apple.com/ja-jp/HT201236&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;hugo:d8b0fd6d0dd66b6cca86af96396306c8&#34;&gt;hugo&lt;/h3&gt;
+&lt;h3 id=&#34;hugo&#34;&gt;hugo&lt;/h3&gt;
 
 &lt;p&gt;&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
 hugo server // local 编译 preview
@@ -808,7 +829,7 @@ hugo // 编译
       <guid>http://maxsou.github.io/post/code-wordpress-apply-online/</guid>
       <description>
 
-&lt;h3 id=&#34;在线报名功能plugin:4d932f4ae7e4c6cc1d13dbf5eae876ff&#34;&gt;在线报名功能plugin&lt;/h3&gt;
+&lt;h3 id=&#34;在线报名功能plugin&#34;&gt;在线报名功能plugin&lt;/h3&gt;
 
 &lt;p&gt;我找到了如下这个教程。
 文中介绍了apply Online 这个插件。
@@ -819,13 +840,13 @@ hugo // 编译
 &lt;p&gt;&lt;a href=&#34;http://www.wpdaxue.com/wordpress-plugin-apply-online.html&#34;&gt;http://www.wpdaxue.com/wordpress-plugin-apply-online.html&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;邮件功能plugin-wp-mail-smtp-和-会员登录功能-theme-my-login:4d932f4ae7e4c6cc1d13dbf5eae876ff&#34;&gt;邮件功能plugin WP－Mail－SMTP 和 会员登录功能 Theme My Login&lt;/h3&gt;
+&lt;h3 id=&#34;邮件功能plugin-wp-mail-smtp-和-会员登录功能-theme-my-login&#34;&gt;邮件功能plugin WP－Mail－SMTP 和 会员登录功能 Theme My Login&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.myjishu.com/?p=257&#34;&gt;http://www.myjishu.com/?p=257&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;另一个会员登录功能:4d932f4ae7e4c6cc1d13dbf5eae876ff&#34;&gt;另一个会员登录功能&lt;/h3&gt;
+&lt;h3 id=&#34;另一个会员登录功能&#34;&gt;另一个会员登录功能&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.hksilicon.com/articles/673730?lang=cn&#34;&gt;http://www.hksilicon.com/articles/673730?lang=cn&lt;/a&gt;&lt;/p&gt;
@@ -885,70 +906,6 @@ hugo // 编译
 &lt;img src=&#34;http://maxsou.github.io/media/DSC04888.JPG&#34; alt=&#34;粉色&#34; attr width=&#34;75%&#34;  &gt;
 &lt;img src=&#34;http://maxsou.github.io/media/DSC04910.JPG&#34; alt=&#34;白色&#34; attr width=&#34;75%&#34;  &gt;
 &lt;img src=&#34;http://maxsou.github.io/media/DSC04934.JPG&#34; alt=&#34;彩色&#34; attr width=&#34;75%&#34; &gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>多年经验｜如何用Hugo＋Github写博客</title>
-      <link>http://maxsou.github.io/post/code-start-to-github-blog/</link>
-      <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://maxsou.github.io/post/code-start-to-github-blog/</guid>
-      <description>
-
-&lt;h1 id=&#34;准备工作:2bca3ed9f02c1fa4ea6063027ba982c1&#34;&gt;准备工作&lt;/h1&gt;
-
-&lt;p&gt;1.安装brew
-&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
-$ Install Homebrew
-&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;2.用brew安装go语言
-&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
-$ brew install go
-&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;3.用brew安装hugo
-&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
-$ brew install hugo&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;建自己的博客:2bca3ed9f02c1fa4ea6063027ba982c1&#34;&gt;建自己的博客&lt;/h1&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;建自己的博客文件夹&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;注册Github&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;建“（你的用户名）.github.io”的项目&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;安装Github Desktop应用&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;用Github Desktop来同步自己建好的本地博客文件夹到Github上。&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&#34;参考:2bca3ed9f02c1fa4ea6063027ba982c1&#34;&gt;参考&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://blog.coderzh.com/2015/08/29/hugo/&#34;&gt;http://blog.coderzh.com/2015/08/29/hugo/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://blog.bpcoder.com/2015/12/hugo-create-blog/&#34;&gt;http://blog.bpcoder.com/2015/12/hugo-create-blog/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://tonybai.com/2015/09/23/intro-of-gohugo/&#34;&gt;http://tonybai.com/2015/09/23/intro-of-gohugo/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://nanshu.wang/post/2015-01-31/&#34;&gt;http://nanshu.wang/post/2015-01-31/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.jianshu.com/p/b66754c0baa6&#34;&gt;http://www.jianshu.com/p/b66754c0baa6&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;更换主题:2bca3ed9f02c1fa4ea6063027ba982c1&#34;&gt;更换主题&lt;/h1&gt;
-
-&lt;p&gt;看到喜欢的主题（theme）可以下载到自己的博客相应文件夹“theme”或者“themes”里，&lt;/p&gt;
-
-&lt;p&gt;然后在config.toml里修改配置“theme＝“xxxx””即可。&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.coderzh.com/2016/03/27/hugo-pacman-theme/&#34;&gt;http://blog.coderzh.com/2016/03/27/hugo-pacman-theme/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

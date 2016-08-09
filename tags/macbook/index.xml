@@ -17,7 +17,7 @@
       <guid>http://maxsou.github.io/post/code-rails/</guid>
       <description>
 
-&lt;h3 id=&#34;ruby-on-rails:77595eb5e74a64a5d3a08803704794a6&#34;&gt;Ruby On Rails&lt;/h3&gt;
+&lt;h3 id=&#34;ruby-on-rails&#34;&gt;Ruby On Rails&lt;/h3&gt;
 
 &lt;p&gt;假设你已经配置好了Ruby On Rails的环境，那么接下来让我们一起创建一个很简单的Twitter系统吧。
 在整个过程中，只需要在终端上输入一些命令，不编写一行代码就能让你的应用服务跑起来。&lt;/p&gt;
@@ -60,7 +60,7 @@ $ rails s // 启动服务器。
 
 &lt;hr /&gt;
 
-&lt;h3 id=&#34;gem:77595eb5e74a64a5d3a08803704794a6&#34;&gt;Gem&lt;/h3&gt;
+&lt;h3 id=&#34;gem&#34;&gt;Gem&lt;/h3&gt;
 
 &lt;p&gt;Ruby的Gem相当于java的jar。&lt;/p&gt;
 
@@ -80,7 +80,7 @@ https://gems.ruby-china.org
 
 &lt;hr /&gt;
 
-&lt;h3 id=&#34;查看安装完的rvm的版本:77595eb5e74a64a5d3a08803704794a6&#34;&gt;查看安装完的RVM的版本&lt;/h3&gt;
+&lt;h3 id=&#34;查看安装完的rvm的版本&#34;&gt;查看安装完的RVM的版本&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;rvm list known&lt;/p&gt;
@@ -88,7 +88,7 @@ https://gems.ruby-china.org
 
 &lt;hr /&gt;
 
-&lt;h3 id=&#34;liwei78-rails-practice-code:77595eb5e74a64a5d3a08803704794a6&#34;&gt;liwei78/rails-practice-code&lt;/h3&gt;
+&lt;h3 id=&#34;liwei78-rails-practice-code&#34;&gt;liwei78/rails-practice-code&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/liwei78/rails-practice-code&#34;&gt;https://github.com/liwei78/rails-practice-code&lt;/a&gt;&lt;/p&gt;
@@ -104,7 +104,7 @@ https://gems.ruby-china.org
       <guid>http://maxsou.github.io/post/code-caffe/</guid>
       <description>
 
-&lt;h3 id=&#34;①wired-cafe:55ef5c97ffa654f75b9f8efcb58af776&#34;&gt;①WIRED CAFE&lt;/h3&gt;
+&lt;h3 id=&#34;①wired-cafe&#34;&gt;①WIRED CAFE&lt;/h3&gt;
 
 &lt;p&gt;営業時間 :
 10:00〜22:00&lt;/p&gt;
@@ -116,7 +116,7 @@ https://gems.ruby-china.org
 &lt;p&gt;&lt;a href=&#34;http://www.cafecompany.co.jp/brands/wired/&#34;&gt;http://www.cafecompany.co.jp/brands/wired/&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;②cafe-frends:55ef5c97ffa654f75b9f8efcb58af776&#34;&gt;②cafe FRENDS&lt;/h3&gt;
+&lt;h3 id=&#34;②cafe-frends&#34;&gt;②cafe FRENDS&lt;/h3&gt;
 
 &lt;p&gt;営業時間 :
 11：30～22：00&lt;/p&gt;
@@ -132,7 +132,7 @@ https://gems.ruby-china.org
 &lt;p&gt;&lt;a href=&#34;http://ameblo.jp/cafefriends/&#34;&gt;http://ameblo.jp/cafefriends/&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;③-s-ドラマカフェ-吉祥寺店-s-信息过旧-已经变名为プレンスカフェ吉祥寺店-腐女向的王子咖啡:55ef5c97ffa654f75b9f8efcb58af776&#34;&gt;③&lt;s&gt;ドラマカフェ 吉祥寺店&lt;/s&gt; ←信息过旧，已经变名为プレンスカフェ吉祥寺店（腐女向的王子咖啡）&lt;/h3&gt;
+&lt;h3 id=&#34;③-s-ドラマカフェ-吉祥寺店-s-信息过旧-已经变名为プレンスカフェ吉祥寺店-腐女向的王子咖啡&#34;&gt;③&lt;s&gt;ドラマカフェ 吉祥寺店&lt;/s&gt; ←信息过旧，已经变名为プレンスカフェ吉祥寺店（腐女向的王子咖啡）&lt;/h3&gt;
 
 &lt;p&gt;営業時間 :
 7:00～24:00&lt;/p&gt;
@@ -144,7 +144,7 @@ https://gems.ruby-china.org
 &lt;p&gt;&lt;a href=&#34;http://www.dorama.co.jp/open/post_015898.shtml&#34;&gt;http://www.dorama.co.jp/open/post_015898.shtml&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;④cafe-zenon:55ef5c97ffa654f75b9f8efcb58af776&#34;&gt;④cafe zenon&lt;/h3&gt;
+&lt;h3 id=&#34;④cafe-zenon&#34;&gt;④cafe zenon&lt;/h3&gt;
 
 &lt;p&gt;営業時間 :
 11:00~25:00(Lunch11:00〜15:00)&lt;/p&gt;
@@ -166,7 +166,7 @@ https://gems.ruby-china.org
       <guid>http://maxsou.github.io/post/code-macbook/</guid>
       <description>
 
-&lt;h3 id=&#34;macbook:d8b0fd6d0dd66b6cca86af96396306c8&#34;&gt;macbook&lt;/h3&gt;
+&lt;h3 id=&#34;macbook&#34;&gt;macbook&lt;/h3&gt;
 
 &lt;p&gt;&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
 command  shift 4  // 选择区域截屏
@@ -178,7 +178,7 @@ command  shift 4  // 选择区域截屏
 &lt;p&gt;&lt;a href=&#34;https://support.apple.com/ja-jp/HT201236&#34;&gt;https://support.apple.com/ja-jp/HT201236&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;hugo:d8b0fd6d0dd66b6cca86af96396306c8&#34;&gt;hugo&lt;/h3&gt;
+&lt;h3 id=&#34;hugo&#34;&gt;hugo&lt;/h3&gt;
 
 &lt;p&gt;&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
 hugo server // local 编译 preview
