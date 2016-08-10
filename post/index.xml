@@ -22,7 +22,9 @@
  &lt;/div&gt;
 &lt;/p&gt;
 
-&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;{ {&lt; youtube MqQb1aAtqdo &gt;}} // 为了不让这段代码被执行，在开头的两个括号之间加了一个半小空格。&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;{ {&lt; youtube MqQb1aAtqdo &gt;}} 
+
+// 为了不让这段代码被执行，在开头的两个括号之间加了一个半角空格。&lt;/code&gt;&lt;/pre&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://gohugo.io/extras/shortcodes/&#34;&gt;https://gohugo.io/extras/shortcodes/&lt;/a&gt;&lt;/p&gt;
