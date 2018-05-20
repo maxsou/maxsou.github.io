@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maxsou on tutu caffe</title>
+    <link>http://maxsou.github.io/tags/maxsou/</link>
+    <description>Recent content in Maxsou on tutu caffe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 19 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://maxsou.github.io/tags/maxsou/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>自我介绍｜关于maxsou</title>
+      <link>http://maxsou.github.io/about/aboutme/</link>
+      <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/about/aboutme/</guid>
+      <description>这个博客用来记录我们在日本的见闻感悟和小规模的日常生活。</description>
+    </item>
+    
+  </channel>
+</rss>

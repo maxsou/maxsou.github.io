@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on tutu caffe</title>
+    <link>http://maxsou.github.io/tags/blog/</link>
+    <description>Recent content in Blog on tutu caffe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 18 May 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://maxsou.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>学习资料｜RubyChina</title>
+      <link>http://maxsou.github.io/post/code-link/</link>
+      <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/code-link/</guid>
+      <description> Ruby-China  https://ruby-china.org/
+https://github.com/ruby-china/ruby-china/
+ coderzh  http://blog.coderzh.com/
+http://www.gohugo.org/post/
+ tonybai  http://tonybai.com/
+ </description>
+    </item>
+    
+    <item>
+      <title>多年经验｜如何用Hugo＋Github写博客</title>
+      <link>http://maxsou.github.io/post/code-start-to-github-blog/</link>
+      <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/code-start-to-github-blog/</guid>
+      <description>准备工作 1.安装brew $ Install Homebrew 2.用brew安装go语言 $ brew install go 3.用brew安装hugo $ brew install hugo 建自己的博客 建自己的博客文件夹 注册Gith</description>
+    </item>
+    
+  </channel>
+</rss>

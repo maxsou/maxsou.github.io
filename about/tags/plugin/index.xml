@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plugin on tutu caffe</title>
+    <link>http://maxsou.github.io/tags/plugin/</link>
+    <description>Recent content in Plugin on tutu caffe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 17 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://maxsou.github.io/tags/plugin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>多年经验｜如何给网页添加在线报名功能</title>
+      <link>http://maxsou.github.io/post/code-wordpress-apply-online/</link>
+      <pubDate>Sun, 17 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/code-wordpress-apply-online/</guid>
+      <description>在线报名功能plugin 我找到了如下这个教程。 文中介绍了apply Online 这个插件。 你可以用wordpress写一个活动的网页，设定好报名表单的模</description>
+    </item>
+    
+  </channel>
+</rss>

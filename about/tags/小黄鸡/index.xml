@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>小黄鸡 on tutu caffe</title>
+    <link>http://maxsou.github.io/tags/%E5%B0%8F%E9%BB%84%E9%B8%A1/</link>
+    <description>Recent content in 小黄鸡 on tutu caffe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 22 Jun 2017 11:29:42 +0000</lastBuildDate>
+    
+	<atom:link href="http://maxsou.github.io/tags/%E5%B0%8F%E9%BB%84%E9%B8%A1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>煮小黄鸡泡面</title>
+      <link>http://maxsou.github.io/zhu-xiao-huang-ji-pao-mian/</link>
+      <pubDate>Thu, 22 Jun 2017 11:29:42 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/zhu-xiao-huang-ji-pao-mian/</guid>
+      <description>这是前几个礼拜在横滨小黄鸡工厂亲手做的袋装泡面。不用加调料包，面中有汤料的味道和盐分，和国内的小当家干脆面很像。 和鸡蛋、豆腐泡、豆芽放在一起</description>
+    </item>
+    
+  </channel>
+</rss>

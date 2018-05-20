@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>技术 on tutu caffe</title>
+    <link>http://maxsou.github.io/tags/%E6%8A%80%E6%9C%AF/</link>
+    <description>Recent content in 技术 on tutu caffe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 20 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://maxsou.github.io/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>多年经验｜Atom安装</title>
+      <link>http://maxsou.github.io/post/code-atom-install/</link>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/code-atom-install/</guid>
+      <description>Atom 1 点击如下下载链接 https://atom.io/ 2 点击［Download For Mac］ 下载。 3 点击下载下来的zip文件，得到解压完的［Atom］。 4 拖拽［Atom］图标到</description>
+    </item>
+    
+    <item>
+      <title>学习资料｜RubyChina</title>
+      <link>http://maxsou.github.io/post/code-link/</link>
+      <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/code-link/</guid>
+      <description> Ruby-China  https://ruby-china.org/
+https://github.com/ruby-china/ruby-china/
+ coderzh  http://blog.coderzh.com/
+http://www.gohugo.org/post/
+ tonybai  http://tonybai.com/
+ </description>
+    </item>
+    
+  </channel>
+</rss>

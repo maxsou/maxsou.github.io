@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>パンケーキ on tutu caffe</title>
+    <link>http://maxsou.github.io/tags/%E3%83%91%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%AD/</link>
+    <description>Recent content in パンケーキ on tutu caffe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 02 Jun 2017 23:18:19 +0000</lastBuildDate>
+    
+	<atom:link href="http://maxsou.github.io/tags/%E3%83%91%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%AD/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>自制パンケーキ</title>
+      <link>http://maxsou.github.io/zi-zhipankeki/</link>
+      <pubDate>Fri, 02 Jun 2017 23:18:19 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/zi-zhipankeki/</guid>
+      <description>￼ 原材料：薄力面粉，泡打粉，白糖，牛奶（没有的话可以用水代替，用牛奶更好吃），油（不用也可），奶油。</description>
+    </item>
+    
+  </channel>
+</rss>

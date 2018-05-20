@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>早餐 on tutu caffe</title>
+    <link>http://maxsou.github.io/tags/%E6%97%A9%E9%A4%90/</link>
+    <description>Recent content in 早餐 on tutu caffe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 07 Nov 2017 10:55:43 +0000</lastBuildDate>
+    
+	<atom:link href="http://maxsou.github.io/tags/%E6%97%A9%E9%A4%90/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>最近的早餐</title>
+      <link>http://maxsou.github.io/%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A9%E9%A4%90/</link>
+      <pubDate>Tue, 07 Nov 2017 10:55:43 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A9%E9%A4%90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>葡萄面包</title>
+      <link>http://maxsou.github.io/pu-tao-mian-bao/</link>
+      <pubDate>Mon, 12 Jun 2017 11:42:44 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/pu-tao-mian-bao/</guid>
+      <description>￼ 早饭吃的在超市买的85日元的葡萄面包。奶味很浓。小兔几做的蓝莓冰块冷饮很漂亮，赞一个。</description>
+    </item>
+    
+  </channel>
+</rss>

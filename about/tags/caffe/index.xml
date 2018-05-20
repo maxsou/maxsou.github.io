@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Caffe on tutu caffe</title>
+    <link>http://maxsou.github.io/tags/caffe/</link>
+    <description>Recent content in Caffe on tutu caffe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 08 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://maxsou.github.io/tags/caffe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>吉祥寺｜适合进行电脑作业的咖啡店</title>
+      <link>http://maxsou.github.io/post/code-caffe/</link>
+      <pubDate>Wed, 08 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/code-caffe/</guid>
+      <description>①WIRED CAFE 営業時間 : 10:00〜22:00 住所： 東京都武蔵野市吉祥寺南町1-1-24 アトレ吉祥寺2F http://www.cafecompany.co.jp/brands/wired/ ②cafe FRENDS 営業時間 : 11：30～</description>
+    </item>
+    
+  </channel>
+</rss>

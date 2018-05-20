@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Youtube on tutu caffe</title>
+    <link>http://maxsou.github.io/tags/youtube/</link>
+    <description>Recent content in Youtube on tutu caffe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 09 Aug 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://maxsou.github.io/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>多年经验｜如何往hugo文章里插入youtube视频</title>
+      <link>http://maxsou.github.io/post/code-youtube/</link>
+      <pubDate>Tue, 09 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/code-youtube/</guid>
+      <description>谷阿莫 《愤怒的小鸟》介绍 { {}} // 为了不让这段代码被执行，在开头的两个括号之间加了一个半角空格。 https://gohugo.io/extras/shortcodes/</description>
+    </item>
+    
+  </channel>
+</rss>
