@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>东京都厅 on SOU研究室</title>
+    <title>东京都厅 on tutu caffe</title>
     <link>http://maxsou.github.io/tags/%E4%B8%9C%E4%BA%AC%E9%83%BD%E5%8E%85/</link>
-    <description>Recent content in 东京都厅 on SOU研究室</description>
+    <description>Recent content in 东京都厅 on tutu caffe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Tue, 12 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://maxsou.github.io/tags/%E4%B8%9C%E4%BA%AC%E9%83%BD%E5%8E%85/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://maxsou.github.io/tags/%E4%B8%9C%E4%BA%AC%E9%83%BD%E5%8E%85/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>东京樱花｜小金井公园，目黑川，东京都厅</title>
@@ -15,32 +17,7 @@
       <pubDate>Tue, 12 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://maxsou.github.io/post/tour-sakura2/</guid>
-      <description>&lt;p&gt;寺院里的樱花
-&lt;img src=&#34;http://maxsou.github.io/media/20160403/DSC6991.JPG&#34; alt=&#34;寺院里的樱花&#34; attr width=&#34;75%&#34;  &gt;&lt;/p&gt;
-
-&lt;p&gt;大学旁边的樱花
-&lt;img src=&#34;http://maxsou.github.io/media/20160402/DSC04935.JPG&#34; alt=&#34;国立一桥大学附近&#34;  attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20160402/DSC04941.JPG&#34; alt=&#34;国立一桥大学附近2&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20160402/DSC04944.JPG&#34; alt=&#34;国立一桥大学附近3&#34; attr width=&#34;75%&#34;  &gt;&lt;/p&gt;
-
-&lt;p&gt;小金井公园是赏花圣地，即使多云，也有很多全家几口一起来这里赏樱的。
-&lt;img src=&#34;http://maxsou.github.io/media/20160402/DSC6924.JPG&#34; alt=&#34;小金井公园&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20160402/DSC6925.JPG&#34; alt=&#34;小金井公园2&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20160402/DSC6962.JPG&#34; alt=&#34;小金井公园3&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20160402/DSC6965.JPG&#34; alt=&#34;小金井公园4&#34; attr width=&#34;75%&#34;  &gt;&lt;/p&gt;
-
-&lt;p&gt;接下来是目黑川两岸的樱花
-&lt;img src=&#34;http://maxsou.github.io/media/20160402/DSC05248.JPG&#34; alt=&#34;目黑川3&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20160403/DSC05076.JPG&#34; alt=&#34;目黑川4&#34;  attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20160403/DSC05142.JPG&#34; alt=&#34;目黑川5&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20160403/DSC6994.JPG&#34; alt=&#34;目黑川7&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20160403/DSC7044.JPG&#34; alt=&#34;目黑川8&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20160403/DSC7046.JPG&#34; alt=&#34;目黑川9&#34; attr width=&#34;75%&#34;  &gt;&lt;/p&gt;
-
-&lt;p&gt;下面两张是从东京都厅往下拍的赏花的人们
-&lt;img src=&#34;http://maxsou.github.io/media/20160403/DSC7113.JPG&#34; alt=&#34;东京都厅&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20160403/DSC7119.JPG&#34; alt=&#34;东京都厅2&#34; attr width=&#34;75%&#34;  &gt;&lt;/p&gt;
-</description>
+      <description>寺院里的樱花 大学旁边的樱花 小金井公园是赏花圣地，即使多云，也有很多全家几口一起来这里赏樱的。 接下来是目黑川两岸的樱花 下面两张是从东京都厅往下</description>
     </item>
     
   </channel>

@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ruby on SOU研究室</title>
+    <title>Ruby on tutu caffe</title>
     <link>http://maxsou.github.io/tags/ruby/</link>
-    <description>Recent content in Ruby on SOU研究室</description>
+    <description>Recent content in Ruby on tutu caffe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Wed, 18 May 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://maxsou.github.io/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://maxsou.github.io/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>学习资料｜RubyChina</title>
@@ -15,30 +17,12 @@
       <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
       
       <guid>http://maxsou.github.io/post/code-link/</guid>
-      <description>
-
-&lt;h3 id=&#34;ruby-china&#34;&gt;Ruby-China&lt;/h3&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://ruby-china.org/&#34;&gt;https://ruby-china.org/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/ruby-china/ruby-china/&#34;&gt;https://github.com/ruby-china/ruby-china/&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;coderzh&#34;&gt;coderzh&lt;/h3&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://blog.coderzh.com/&#34;&gt;http://blog.coderzh.com/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.gohugo.org/post/&#34;&gt;http://www.gohugo.org/post/&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;tonybai&#34;&gt;tonybai&lt;/h3&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://tonybai.com/&#34;&gt;http://tonybai.com/&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
+      <description> Ruby-China  https://ruby-china.org/
+https://github.com/ruby-china/ruby-china/
+ coderzh  http://blog.coderzh.com/
+http://www.gohugo.org/post/
+ tonybai  http://tonybai.com/
+ </description>
     </item>
     
   </channel>

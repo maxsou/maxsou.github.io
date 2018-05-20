@@ -1,35 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Maxsou on SOU研究室</title>
+    <title>Maxsou on tutu caffe</title>
     <link>http://maxsou.github.io/tags/maxsou/</link>
-    <description>Recent content in Maxsou on SOU研究室</description>
+    <description>Recent content in Maxsou on tutu caffe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 09 Mar 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://maxsou.github.io/tags/maxsou/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://maxsou.github.io/tags/maxsou/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>自我介绍｜关于maxsou</title>
-      <link>http://maxsou.github.io/about/aboutme</link>
-      <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
+      <link>http://maxsou.github.io/about/aboutme/</link>
+      <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://maxsou.github.io/about/aboutme</guid>
-      <description>
-
-&lt;h1 id=&#34;历史&#34;&gt;历史&lt;/h1&gt;
-
-&lt;p&gt;&lt;li&gt;出生于中国东北。
-&lt;li&gt;大学就读于中国南方。
-&lt;li&gt;毕业后留学日本，就职于某“正经”日本企业。&lt;/p&gt;
-
-&lt;h1 id=&#34;如今&#34;&gt;如今&lt;/h1&gt;
-
-&lt;p&gt;&lt;li&gt;工作内容是系统开发。
-&lt;li&gt;喜欢编程，工作上用的是java，在学Ruby。
-&lt;li&gt;喜欢动漫和旅游。游遍了日本四个岛屿－－北海道，本州，四国，九州。 &lt;/br&gt;
-因为出生于北方怕冷的缘故，对四国和九州情有独钟。&lt;/p&gt;
-</description>
+      <guid>http://maxsou.github.io/about/aboutme/</guid>
+      <description>这个博客用来记录我们在日本的见闻感悟和小规模的日常生活。</description>
     </item>
     
   </channel>

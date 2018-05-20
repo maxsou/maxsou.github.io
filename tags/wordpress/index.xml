@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wordpress on SOU研究室</title>
+    <title>Wordpress on tutu caffe</title>
     <link>http://maxsou.github.io/tags/wordpress/</link>
-    <description>Recent content in Wordpress on SOU研究室</description>
+    <description>Recent content in Wordpress on tutu caffe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sun, 17 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://maxsou.github.io/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://maxsou.github.io/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>多年经验｜如何给网页添加在线报名功能</title>
@@ -15,31 +17,7 @@
       <pubDate>Sun, 17 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://maxsou.github.io/post/code-wordpress-apply-online/</guid>
-      <description>
-
-&lt;h3 id=&#34;在线报名功能plugin&#34;&gt;在线报名功能plugin&lt;/h3&gt;
-
-&lt;p&gt;我找到了如下这个教程。
-文中介绍了apply Online 这个插件。
-你可以用wordpress写一个活动的网页，设定好报名表单的模板。
-用户在前台填并提交表单，你能在后台查看用户提交的表单信息。&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.wpdaxue.com/wordpress-plugin-apply-online.html&#34;&gt;http://www.wpdaxue.com/wordpress-plugin-apply-online.html&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;邮件功能plugin-wp-mail-smtp-和-会员登录功能-theme-my-login&#34;&gt;邮件功能plugin WP－Mail－SMTP 和 会员登录功能 Theme My Login&lt;/h3&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.myjishu.com/?p=257&#34;&gt;http://www.myjishu.com/?p=257&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;另一个会员登录功能&#34;&gt;另一个会员登录功能&lt;/h3&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.hksilicon.com/articles/673730?lang=cn&#34;&gt;http://www.hksilicon.com/articles/673730?lang=cn&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
+      <description>在线报名功能plugin 我找到了如下这个教程。 文中介绍了apply Online 这个插件。 你可以用wordpress写一个活动的网页，设定好报名表单的模</description>
     </item>
     
   </channel>

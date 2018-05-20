@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Macbook on SOU研究室</title>
+    <title>Macbook on tutu caffe</title>
     <link>http://maxsou.github.io/tags/macbook/</link>
-    <description>Recent content in Macbook on SOU研究室</description>
+    <description>Recent content in Macbook on tutu caffe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Wed, 08 Jun 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://maxsou.github.io/tags/macbook/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://maxsou.github.io/tags/macbook/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Rails的魅力｜不写一行代码就能创建一个应用服务</title>
@@ -15,85 +17,7 @@
       <pubDate>Wed, 08 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>http://maxsou.github.io/post/code-rails/</guid>
-      <description>
-
-&lt;h3 id=&#34;ruby-on-rails&#34;&gt;Ruby On Rails&lt;/h3&gt;
-
-&lt;p&gt;假设你已经配置好了Ruby On Rails的环境，那么接下来让我们一起创建一个很简单的Twitter系统吧。
-在整个过程中，只需要在终端上输入一些命令，不编写一行代码就能让你的应用服务跑起来。&lt;/p&gt;
-
-&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
-$ rails new sample
-$ cd sample
-$ rails g scaffold Twitter tweet:string
-$ rake db:migrate
-$ rails server // 启动服务器。启动后可以通过访问about页面来验证是否成功启动了服务器。
-&lt;/code&gt;
-&lt;/pre&gt;
-
-&lt;p&gt;about页面&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:3000&#34;&gt;http://localhost:3000&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;如果你成功执行了以上命令，那么点击下面链接来访问你的本地应用服务吧。&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:3000/twitters&#34;&gt;http://localhost:3000/twitters&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;在终端（控制台）点击Control＋C退出服务。&lt;/p&gt;
-
-&lt;p&gt;就在刚才打开的sample文件夹里，再利用Rails做一个用户管理（管理用户的名字和邮箱）的功能吧。&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=“highlight”&gt;
-$ rails g scaffold user name:string email:string
-$ rake db:migrate
-$ rails s // 启动服务器。
-&lt;/code&gt;
-&lt;/pre&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:3000/users&#34;&gt;http://localhost:3000/users&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&#34;gem&#34;&gt;Gem&lt;/h3&gt;
-
-&lt;p&gt;Ruby的Gem相当于java的jar。&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=“highlight”&gt;
-### 更新Gem
-
-$ gem update --system
-$ gem -v
-2.6.4
-
-### 从RubyChina更新Gem source
-$ gem sources --add https://gems.ruby-china.org/ --remove https://rubygems.org/
-$ gem sources -l ##查看当前gem版本
-https://gems.ruby-china.org
-&lt;/code&gt;
-&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&#34;查看安装完的rvm的版本&#34;&gt;查看安装完的RVM的版本&lt;/h3&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;rvm list known&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&#34;liwei78-rails-practice-code&#34;&gt;liwei78/rails-practice-code&lt;/h3&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/liwei78/rails-practice-code&#34;&gt;https://github.com/liwei78/rails-practice-code&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
+      <description>Ruby On Rails 假设你已经配置好了Ruby On Rails的环境，那么接下来让我们一起创建一个很简单的Twitter系统吧。 在整个过程中，只需要在终端上输</description>
     </item>
     
     <item>
@@ -102,60 +26,7 @@ https://gems.ruby-china.org
       <pubDate>Wed, 08 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>http://maxsou.github.io/post/code-caffe/</guid>
-      <description>
-
-&lt;h3 id=&#34;①wired-cafe&#34;&gt;①WIRED CAFE&lt;/h3&gt;
-
-&lt;p&gt;営業時間 :
-10:00〜22:00&lt;/p&gt;
-
-&lt;p&gt;住所：
-東京都武蔵野市吉祥寺南町1-1-24 アトレ吉祥寺2F&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.cafecompany.co.jp/brands/wired/&#34;&gt;http://www.cafecompany.co.jp/brands/wired/&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;②cafe-frends&#34;&gt;②cafe FRENDS&lt;/h3&gt;
-
-&lt;p&gt;営業時間 :
-11：30～22：00&lt;/p&gt;
-
-&lt;p&gt;店主一个月里有一半时间在休假。这次来这里也碰到了店主临时休假。&lt;/p&gt;
-
-&lt;p&gt;预定休假时间会写在店门口的月历上。&lt;/p&gt;
-
-&lt;p&gt;住所：
-東京都武蔵野市吉祥寺東町1-4-24&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://ameblo.jp/cafefriends/&#34;&gt;http://ameblo.jp/cafefriends/&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;③-s-ドラマカフェ-吉祥寺店-s-信息过旧-已经变名为プレンスカフェ吉祥寺店-腐女向的王子咖啡&#34;&gt;③&lt;s&gt;ドラマカフェ 吉祥寺店&lt;/s&gt; ←信息过旧，已经变名为プレンスカフェ吉祥寺店（腐女向的王子咖啡）&lt;/h3&gt;
-
-&lt;p&gt;営業時間 :
-7:00～24:00&lt;/p&gt;
-
-&lt;p&gt;住所：
-東京都武蔵野市吉祥寺本町1-8-5&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.dorama.co.jp/open/post_015898.shtml&#34;&gt;http://www.dorama.co.jp/open/post_015898.shtml&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;④cafe-zenon&#34;&gt;④cafe zenon&lt;/h3&gt;
-
-&lt;p&gt;営業時間 :
-11:00~25:00(Lunch11:00〜15:00)&lt;/p&gt;
-
-&lt;p&gt;住所：
-東京都武蔵野市吉祥寺南町2-11-3&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.cafe-zenon.jp/&#34;&gt;http://www.cafe-zenon.jp/&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
+      <description>①WIRED CAFE 営業時間 : 10:00〜22:00 住所： 東京都武蔵野市吉祥寺南町1-1-24 アトレ吉祥寺2F http://www.cafecompany.co.jp/brands/wired/ ②cafe FRENDS 営業時間 : 11：30～</description>
     </item>
     
     <item>
@@ -164,27 +35,7 @@ https://gems.ruby-china.org
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://maxsou.github.io/post/code-macbook/</guid>
-      <description>
-
-&lt;h3 id=&#34;macbook&#34;&gt;macbook&lt;/h3&gt;
-
-&lt;p&gt;&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
-command  shift 4  // 选择区域截屏
-&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Macbook 快捷键&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://support.apple.com/ja-jp/HT201236&#34;&gt;https://support.apple.com/ja-jp/HT201236&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;hugo&#34;&gt;hugo&lt;/h3&gt;
-
-&lt;p&gt;&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
-hugo server // local 编译 preview
-hugo // 编译
-&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
-</description>
+      <description>macbook command shift 4 // 选择区域截屏 Macbook 快捷键 https://support.apple.com/ja-jp/HT201236 hugo hugo server // local 编译 preview hugo // 编译</description>
     </item>
     
   </channel>

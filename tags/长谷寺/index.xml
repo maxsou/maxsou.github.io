@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>长谷寺 on SOU研究室</title>
+    <title>长谷寺 on tutu caffe</title>
     <link>http://maxsou.github.io/tags/%E9%95%BF%E8%B0%B7%E5%AF%BA/</link>
-    <description>Recent content in 长谷寺 on SOU研究室</description>
+    <description>Recent content in 长谷寺 on tutu caffe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Mon, 23 May 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://maxsou.github.io/tags/%E9%95%BF%E8%B0%B7%E5%AF%BA/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://maxsou.github.io/tags/%E9%95%BF%E8%B0%B7%E5%AF%BA/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>东京周边｜镰仓长谷寺</title>
@@ -15,29 +17,7 @@
       <pubDate>Mon, 23 May 2016 00:00:00 +0000</pubDate>
       
       <guid>http://maxsou.github.io/post/tour-kamakura/</guid>
-      <description>&lt;p&gt;镰仓幕府大家耳熟能详，镰仓就是那时日本的首都。现在作为古都，镰仓仍保有很多当时统治阶级崇拜的神社和寺院。
-长谷寺是镰仓众多寺院里，日式庭院最漂亮的一个。里面有日式庭院必不可少的池子，亭子，竹子。
-很多老外为了看日本庭院慕名而来。
-&lt;img src=&#34;http://maxsou.github.io/media/20160409/DSC05517.JPG&#34; alt=“长谷寺的正门” attr width=&#34;75%&#34;  &gt;&lt;/p&gt;
-
-&lt;p&gt;樱花季来长谷寺的话，你能看到绝美的景色－－凄美的樱花和质朴的佛像的相得益彰，色彩鲜艳的樱花和白灰色的枯山水的调和。
-&lt;img src=&#34;http://maxsou.github.io/media/20160409/DSC05437.JPG&#34; alt=“樱花和寺院”  attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20160409/DSC05485.JPG&#34; alt=“樱花和枯山水” attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20160409/DSC05448.JPG&#34; alt=“樱花散落在桌椅上” attr width=&#34;75%&#34;  &gt;&lt;/p&gt;
-
-&lt;p&gt;小水池，在入口出有一个更小的水池－－万字池（由池塘的形状得名，卐）。
-&lt;img src=&#34;http://maxsou.github.io/media/20160409/DSC05516.JPG&#34; alt=“小池塘“ attr width=&#34;75%&#34;  &gt;&lt;/p&gt;
-
-&lt;p&gt;登上小山坡站在眺望台上，能看到镰仓海边的景色，也能看到慢慢悠悠从山下跑过来跑过去的江之岛电车。
-&lt;img src=&#34;http://maxsou.github.io/media/20160409/DSC05445.JPG&#34; alt=“登上小山坡后看到的景色” attr width=&#34;75%&#34;  &gt;&lt;/p&gt;
-
-&lt;p&gt;下山路上的小竹林。
-&lt;img src=&#34;http://maxsou.github.io/media/20160409/DSC05463.JPG&#34; alt=“小竹林” attr width=&#34;75%&#34;  &gt;&lt;/p&gt;
-
-&lt;p&gt;我觉得长谷寺里最有趣的要数藏有很多佛像的天然洞穴了。这个小洞穴的入口需要弯腰通过，进去也是一样，走一会儿就要弯腰过个小门什么的。
-在里面的时候一直在杞人忧天－－要是这时候地震可咋办呀。幸好佛祖保佑，走完了这幽深狭窄的小道，一点问题也没有。由于是天然洞穴，里面会被渗出的水淋到，要小心保护好自己的相机，手机。
-&lt;img src=&#34;http://maxsou.github.io/media/20160409/DSC05512.JPG&#34; alt=“别有洞天” attr width=&#34;75%&#34;  &gt;&lt;/p&gt;
-</description>
+      <description>镰仓幕府大家耳熟能详，镰仓就是那时日本的首都。现在作为古都，镰仓仍保有很多当时统治阶级崇拜的神社和寺院。 长谷寺是镰仓众多寺院里，日式庭院最漂</description>
     </item>
     
   </channel>

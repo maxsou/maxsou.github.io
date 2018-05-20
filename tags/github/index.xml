@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Github on SOU研究室</title>
+    <title>Github on tutu caffe</title>
     <link>http://maxsou.github.io/tags/github/</link>
-    <description>Recent content in Github on SOU研究室</description>
+    <description>Recent content in Github on tutu caffe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Wed, 09 Mar 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://maxsou.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://maxsou.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>多年经验｜如何用Hugo＋Github写博客</title>
@@ -15,60 +17,7 @@
       <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>http://maxsou.github.io/post/code-start-to-github-blog/</guid>
-      <description>
-
-&lt;h1 id=&#34;准备工作&#34;&gt;准备工作&lt;/h1&gt;
-
-&lt;p&gt;1.安装brew
-&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
-$ Install Homebrew
-&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;2.用brew安装go语言
-&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
-$ brew install go
-&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;3.用brew安装hugo
-&lt;pre&gt;&lt;code  class=&#34;highlight&#34;&gt;
-$ brew install hugo&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;建自己的博客&#34;&gt;建自己的博客&lt;/h1&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;建自己的博客文件夹&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;注册Github&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;建“（你的用户名）.github.io”的项目&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;安装Github Desktop应用&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;用Github Desktop来同步自己建好的本地博客文件夹到Github上。&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&#34;参考&#34;&gt;参考&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://blog.coderzh.com/2015/08/29/hugo/&#34;&gt;http://blog.coderzh.com/2015/08/29/hugo/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://blog.bpcoder.com/2015/12/hugo-create-blog/&#34;&gt;http://blog.bpcoder.com/2015/12/hugo-create-blog/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://tonybai.com/2015/09/23/intro-of-gohugo/&#34;&gt;http://tonybai.com/2015/09/23/intro-of-gohugo/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://nanshu.wang/post/2015-01-31/&#34;&gt;http://nanshu.wang/post/2015-01-31/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;更换主题&#34;&gt;更换主题&lt;/h1&gt;
-
-&lt;p&gt;看到喜欢的主题（theme）可以下载到自己的博客相应文件夹“theme”或者“themes”里，&lt;/p&gt;
-
-&lt;p&gt;然后在config.toml里修改配置“theme＝“xxxx””即可。&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.coderzh.com/2016/03/27/hugo-pacman-theme/&#34;&gt;http://blog.coderzh.com/2016/03/27/hugo-pacman-theme/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>准备工作 1.安装brew $ Install Homebrew 2.用brew安装go语言 $ brew install go 3.用brew安装hugo $ brew install hugo 建自己的博客 建自己的博客文件夹 注册Gith</description>
     </item>
     
   </channel>

@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>东京迪斯尼乐园 on SOU研究室</title>
+    <title>东京迪斯尼乐园 on tutu caffe</title>
     <link>http://maxsou.github.io/tags/%E4%B8%9C%E4%BA%AC%E8%BF%AA%E6%96%AF%E5%B0%BC%E4%B9%90%E5%9B%AD/</link>
-    <description>Recent content in 东京迪斯尼乐园 on SOU研究室</description>
+    <description>Recent content in 东京迪斯尼乐园 on tutu caffe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sat, 25 Feb 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://maxsou.github.io/tags/%E4%B8%9C%E4%BA%AC%E8%BF%AA%E6%96%AF%E5%B0%BC%E4%B9%90%E5%9B%AD/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://maxsou.github.io/tags/%E4%B8%9C%E4%BA%AC%E8%BF%AA%E6%96%AF%E5%B0%BC%E4%B9%90%E5%9B%AD/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>东京迪斯尼</title>
@@ -15,30 +17,7 @@
       <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>http://maxsou.github.io/post/tour-tokyo-disneyland/</guid>
-      <description>&lt;p&gt;一晃眼，半年没有更新博客了。
-2月10号，小狛探险队去了东京迪斯尼乐园。
-出了舞滨站就到了迪斯尼乐园的地盘。
-在这里几乎所有建筑，设施，巴士都是迪斯尼相关的，真的是“梦的王国”。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://maxsou.github.io/media/20170225/DSC09424.JPG&#34; alt=&#34;东京迪斯尼-树屋&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20170225/DSC09427.JPG&#34; alt=&#34;东京迪斯尼-热带小树屋&#34;  attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20170225/DSC09459.JPG&#34; alt=&#34;东京迪斯尼-冰雪奇缘的男女主角&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20170225/DSC09463.JPG&#34; alt=&#34;东京迪斯尼-小石头怪们&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20170225/DSC09470.JPG&#34; alt=&#34;东京迪斯尼-冰雪奇缘的小雪人&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20170225/DSC09494.JPG&#34; alt=&#34;东京迪斯尼-灰姑娘城堡的大吊灯&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20170225/IMG_6785.JPG&#34; alt=&#34;东京迪斯尼-比诺曹的故事&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20170225/IMG_6827.JPG&#34; alt=&#34;东京迪斯尼-冰雪奇缘的邪恶王子&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20170225/IMG_6828.JPG&#34; alt=&#34;东京迪斯尼-灰姑娘的折纸&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20170225/IMG_6833.JPG&#34; alt=&#34;东京迪斯尼-小米老鼠睡衣&#34;  attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20170225/IMG_6834.JPG&#34; alt=&#34;东京迪斯尼-火山（过山车）&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20170225/IMG_6835.JPG&#34; alt=&#34;东京迪斯尼-小雪人队伍&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20170225/IMG_6836.JPG&#34; alt=&#34;东京迪斯尼-午餐（食物补给点）&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20170225/IMG_6878.JPG&#34; alt=&#34;东京迪斯尼-迪斯尼里的快餐&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20170225/IMG_6889.JPG&#34; alt=&#34;东京迪斯尼-寻宠物启示&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/20170225/IMG_6912.JPG&#34; alt=&#34;东京迪斯尼-夜间的灰姑娘城堡&#34; attr width=&#34;75%&#34;  &gt;&lt;/p&gt;
-
-&lt;p&gt;以上&lt;/p&gt;
-</description>
+      <description>一晃眼，半年没有更新博客了。 2月10号，小狛探险队去了东京迪斯尼乐园。 出了舞滨站就到了迪斯尼乐园的地盘。 在这里几乎所有建筑，设施，巴士都是迪</description>
     </item>
     
   </channel>

@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>公园 on SOU研究室</title>
+    <title>公园 on tutu caffe</title>
     <link>http://maxsou.github.io/tags/%E5%85%AC%E5%9B%AD/</link>
-    <description>Recent content in 公园 on SOU研究室</description>
+    <description>Recent content in 公园 on tutu caffe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Mon, 28 Mar 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://maxsou.github.io/tags/%E5%85%AC%E5%9B%AD/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://maxsou.github.io/tags/%E5%85%AC%E5%9B%AD/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>东京樱花｜一个悠闲的周末</title>
@@ -15,19 +17,7 @@
       <pubDate>Mon, 28 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>http://maxsou.github.io/post/tour-sakura/</guid>
-      <description>&lt;p&gt;公园很大，横跨了两个铁路站。
-花了一下午还没逛完。
-&lt;img src=&#34;http://maxsou.github.io/media/DSC6833.JPG&#34; alt=&#34;红色&#34;  attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/DSC6837.JPG&#34; alt=&#34;绿色&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/DSC6853.JPG&#34; alt=&#34;粉色&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/DSC6868.JPG&#34; alt=&#34;枫&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/DSC04857.JPG&#34; alt=&#34;树影&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/DSC04872.JPG&#34; alt=&#34;波光粼粼的湖水－亭子&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/DSC04877.JPG&#34; alt=&#34;水中落花&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/DSC04888.JPG&#34; alt=&#34;粉色&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/DSC04910.JPG&#34; alt=&#34;白色&#34; attr width=&#34;75%&#34;  &gt;
-&lt;img src=&#34;http://maxsou.github.io/media/DSC04934.JPG&#34; alt=&#34;彩色&#34; attr width=&#34;75%&#34; &gt;&lt;/p&gt;
-</description>
+      <description>公园很大，横跨了两个铁路站。 花了一下午还没逛完。</description>
     </item>
     
   </channel>

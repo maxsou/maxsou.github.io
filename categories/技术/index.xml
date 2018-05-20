@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>技术 on tutu caffe</title>
+    <link>http://maxsou.github.io/categories/%E6%8A%80%E6%9C%AF/</link>
+    <description>Recent content in 技术 on tutu caffe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://maxsou.github.io/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>多年经验｜如何在Mac的终端上用brew来更新升级软件</title>
+      <link>http://maxsou.github.io/post/code-update/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/code-update/</guid>
+      <description>1.前提，安装过brew $ Install Homebrew 2.更新 $ brew update 3.升级 $ brew upgrade ====== git remote add origin 〜を実行してfatal: remote origin already exists.が出た場合、git remote rm ori</description>
+    </item>
+    
+    <item>
+      <title>多年经验｜如何往hugo文章里插入youtube视频</title>
+      <link>http://maxsou.github.io/post/code-youtube/</link>
+      <pubDate>Tue, 09 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/code-youtube/</guid>
+      <description>谷阿莫 《愤怒的小鸟》介绍 { {}} // 为了不让这段代码被执行，在开头的两个括号之间加了一个半角空格。 https://gohugo.io/extras/shortcodes/</description>
+    </item>
+    
+    <item>
+      <title>福祉｜日本的机器人制造</title>
+      <link>http://maxsou.github.io/post/robo-fukushi/</link>
+      <pubDate>Wed, 22 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/robo-fukushi/</guid>
+      <description>日本有哪些制造护理／福祉机器人的公司？ 在本文，护理福祉机器人／护理机器人／福祉机器人／护理支援机器人都是指同一个意思。 可以参考护理机器人（日</description>
+    </item>
+    
+    <item>
+      <title>多年经验｜Atom安装</title>
+      <link>http://maxsou.github.io/post/code-atom-install/</link>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/code-atom-install/</guid>
+      <description>Atom 1 点击如下下载链接 https://atom.io/ 2 点击［Download For Mac］ 下载。 3 点击下载下来的zip文件，得到解压完的［Atom］。 4 拖拽［Atom］图标到</description>
+    </item>
+    
+    <item>
+      <title>福祉｜关于高龄社会</title>
+      <link>http://maxsou.github.io/post/robo-kourei/</link>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/robo-kourei/</guid>
+      <description>日本到了高龄社会的哪个阶段了？ 按照联合国的标准 65岁人口所占百分比 被称为 7% - 14% 高齢化社会 14% - 21% 高齢社会 21%超 超高齢社会 日本1970年进入高</description>
+    </item>
+    
+    <item>
+      <title>Rails的魅力｜不写一行代码就能创建一个应用服务</title>
+      <link>http://maxsou.github.io/post/code-rails/</link>
+      <pubDate>Wed, 08 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/code-rails/</guid>
+      <description>Ruby On Rails 假设你已经配置好了Ruby On Rails的环境，那么接下来让我们一起创建一个很简单的Twitter系统吧。 在整个过程中，只需要在终端上输</description>
+    </item>
+    
+    <item>
+      <title>学习资料｜RubyChina</title>
+      <link>http://maxsou.github.io/post/code-link/</link>
+      <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/code-link/</guid>
+      <description> Ruby-China  https://ruby-china.org/
+https://github.com/ruby-china/ruby-china/
+ coderzh  http://blog.coderzh.com/
+http://www.gohugo.org/post/
+ tonybai  http://tonybai.com/
+ </description>
+    </item>
+    
+    <item>
+      <title>多年经验｜在macbook上常用的命令</title>
+      <link>http://maxsou.github.io/post/code-macbook/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/code-macbook/</guid>
+      <description>macbook command shift 4 // 选择区域截屏 Macbook 快捷键 https://support.apple.com/ja-jp/HT201236 hugo hugo server // local 编译 preview hugo // 编译</description>
+    </item>
+    
+    <item>
+      <title>多年经验｜如何给网页添加在线报名功能</title>
+      <link>http://maxsou.github.io/post/code-wordpress-apply-online/</link>
+      <pubDate>Sun, 17 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/code-wordpress-apply-online/</guid>
+      <description>在线报名功能plugin 我找到了如下这个教程。 文中介绍了apply Online 这个插件。 你可以用wordpress写一个活动的网页，设定好报名表单的模</description>
+    </item>
+    
+    <item>
+      <title>多年经验｜如何用Hugo＋Github写博客</title>
+      <link>http://maxsou.github.io/post/code-start-to-github-blog/</link>
+      <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/post/code-start-to-github-blog/</guid>
+      <description>准备工作 1.安装brew $ Install Homebrew 2.用brew安装go语言 $ brew install go 3.用brew安装hugo $ brew install hugo 建自己的博客 建自己的博客文件夹 注册Gith</description>
+    </item>
+    
+  </channel>
+</rss>
