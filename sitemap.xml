@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://maxsou.github.io/%E6%B3%A1%E6%B3%A1%E5%85%94/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://maxsou.github.io/about/aboutme/</loc>
     <lastmod>2018-05-19T00:00:00+00:00</lastmod>
   </url>
@@ -668,12 +673,6 @@
   </url>
   
   <url>
-    <loc>http://maxsou.github.io/tags/maxsou/</loc>
-    <lastmod>2018-05-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://maxsou.github.io/tags/muji/</loc>
     <lastmod>2017-11-06T15:04:40+00:00</lastmod>
     <priority>0</priority>
@@ -687,7 +686,7 @@
   
   <url>
     <loc>http://maxsou.github.io/post/</loc>
-    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -704,20 +703,14 @@
   </url>
   
   <url>
-    <loc>http://maxsou.github.io/tags/soulab/</loc>
-    <lastmod>2018-05-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://maxsou.github.io/tags/sou%E7%A0%94%E7%A9%B6%E5%AE%A4/</loc>
-    <lastmod>2018-05-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://maxsou.github.io/tags/</loc>
     <lastmod>2016-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://maxsou.github.io/tags/tutucaffe/</loc>
+    <lastmod>2018-05-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -735,7 +728,7 @@
   
   <url>
     <loc>http://maxsou.github.io/</loc>
-    <lastmod>2018-05-19T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -790,6 +783,12 @@
   <url>
     <loc>http://maxsou.github.io/tags/%E5%81%9A%E6%A2%A6/</loc>
     <lastmod>2017-05-09T16:02:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://maxsou.github.io/tags/%E5%85%94%E5%85%94%E5%92%96%E5%95%A1/</loc>
+    <lastmod>2018-05-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -944,14 +943,14 @@
   </url>
   
   <url>
-    <loc>http://maxsou.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+    <loc>http://maxsou.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2016-06-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://maxsou.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2016-06-20T00:00:00+00:00</lastmod>
+    <loc>http://maxsou.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -981,7 +980,7 @@
   
   <url>
     <loc>http://maxsou.github.io/tags/%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8/</loc>
-    <lastmod>2018-05-19T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-29T23:00:32+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1130,14 +1129,8 @@
   </url>
   
   <url>
-    <loc>http://maxsou.github.io/tags/%E7%BB%8F%E5%8E%86/</loc>
-    <lastmod>2018-05-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://maxsou.github.io/categories/%E7%BB%98%E6%9C%AC/</loc>
-    <lastmod>2018-05-15T14:27:02+00:00</lastmod>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

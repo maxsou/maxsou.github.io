@@ -17,7 +17,7 @@
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://maxsou.github.io/post/code-update/</guid>
-      <description>1.前提，安装过brew $ Install Homebrew 2.更新 $ brew update 3.升级 $ brew upgrade ====== git remote add origin 〜を実行してfatal: remote origin already exists.が出た場合、git remote rm ori</description>
+      <description>1.前提，安装过brew $ Install Homebrew 2.更新 $ brew update 3.升级 $ brew upgrade #git remote add origin 〜を実行してfatal: remote origin already exists.が出た場合、git remote rm orig</description>
     </item>
     
     <item>

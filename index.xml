@@ -6,10 +6,19 @@
     <description>Recent content on tutu caffe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 19 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://maxsou.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>泡泡🐰</title>
+      <link>http://maxsou.github.io/%E6%B3%A1%E6%B3%A1%E5%85%94/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxsou.github.io/%E6%B3%A1%E6%B3%A1%E5%85%94/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>自我介绍｜关于maxsou</title>
@@ -26,7 +35,7 @@
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://maxsou.github.io/post/code-update/</guid>
-      <description>1.前提，安装过brew $ Install Homebrew 2.更新 $ brew update 3.升级 $ brew upgrade ====== git remote add origin 〜を実行してfatal: remote origin already exists.が出た場合、git remote rm ori</description>
+      <description>1.前提，安装过brew $ Install Homebrew 2.更新 $ brew update 3.升级 $ brew upgrade #git remote add origin 〜を実行してfatal: remote origin already exists.が出た場合、git remote rm orig</description>
     </item>
     
     <item>
